@@ -1,0 +1,2748 @@
+:::: Log File ::::
+[21/11/2022 -- 15:51]  Info task started
+[21/11/2022 -- 15:51]  Mustache Templates ran on the HTML files
+[21/11/2022 -- 15:51]  Scripts ran on main.js
+[21/11/2022 -- 15:51]  Sass ran on files
+[21/11/2022 -- 15:54]  restarted!
+[21/11/2022 -- 15:54]  restarted!
+[21/11/2022 -- 15:54]  Scripts ran on main.js
+[21/11/2022 -- 15:54]  Scripts ran on main.js
+[21/11/2022 -- 15:54]  Scripts ran on main.js
+[21/11/2022 -- 15:54]  Scripts ran on main.js
+[21/11/2022 -- 15:54]  Scripts ran on main.js
+[21/11/2022 -- 15:54]  Scripts ran on main.js
+[21/11/2022 -- 15:54]  Scripts ran on main.js
+[21/11/2022 -- 15:54]  Scripts ran on main.js
+[21/11/2022 -- 15:54]  Scripts ran on main.js
+[21/11/2022 -- 15:54]  Scripts ran on main.js
+[21/11/2022 -- 15:54]  Scripts ran on main.js
+[21/11/2022 -- 15:54]  Scripts ran on main.js
+[21/11/2022 -- 15:55]  Scripts ran on main.js
+[21/11/2022 -- 15:55]  Scripts ran on main.js
+[21/11/2022 -- 15:55]  Scripts ran on main.js
+[21/11/2022 -- 15:55]  Scripts ran on main.js
+[21/11/2022 -- 15:55]  Scripts ran on main.js
+[21/11/2022 -- 15:55]  Scripts ran on main.js
+[21/11/2022 -- 15:55]  Scripts ran on main.js
+[21/11/2022 -- 15:55]  Scripts ran on main.js
+[21/11/2022 -- 15:55]  Scripts ran on main.js
+[21/11/2022 -- 15:56]  Scripts ran on main.js
+[21/11/2022 -- 15:56]  Scripts ran on main.js
+[21/11/2022 -- 15:56]  Scripts ran on main.js
+[21/11/2022 -- 15:57]  Scripts ran on main.js
+[21/11/2022 -- 15:57]  Scripts ran on main.js
+[21/11/2022 -- 15:57]  Scripts ran on main.js
+[21/11/2022 -- 15:57]  Scripts ran on main.js
+[21/11/2022 -- 15:57]  Scripts ran on main.js
+[21/11/2022 -- 15:57]  Scripts ran on main.js
+[21/11/2022 -- 15:58]  Scripts ran on main.js
+[21/11/2022 -- 15:58]  Scripts ran on main.js
+[21/11/2022 -- 15:58]  Scripts ran on main.js
+[21/11/2022 -- 15:58]  Scripts ran on main.js
+[21/11/2022 -- 15:58]  Scripts ran on main.js
+[21/11/2022 -- 15:58]  Scripts ran on main.js
+[21/11/2022 -- 15:58]  Scripts ran on main.js
+[21/11/2022 -- 15:58]  Scripts ran on main.js
+[21/11/2022 -- 15:59]  Scripts ran on main.js
+[21/11/2022 -- 15:59]  Scripts ran on main.js
+[21/11/2022 -- 15:59]  Scripts ran on main.js
+[21/11/2022 -- 15:59]  Scripts ran on main.js
+[21/11/2022 -- 15:59]  Scripts ran on main.js
+[21/11/2022 -- 15:59]  Scripts ran on main.js
+[21/11/2022 -- 15:59]  Scripts ran on main.js
+[21/11/2022 -- 15:59]  Scripts ran on main.js
+[21/11/2022 -- 15:59]  Scripts ran on main.js
+[21/11/2022 -- 15:59]  Scripts ran on main.js
+[21/11/2022 -- 15:59]  Scripts ran on main.js
+[21/11/2022 -- 16:1]  Scripts ran on main.js
+[21/11/2022 -- 16:1]  Scripts ran on main.js
+[21/11/2022 -- 16:1]  Scripts ran on main.js
+[21/11/2022 -- 16:1]  Scripts ran on main.js
+[21/11/2022 -- 16:5]  Scripts ran on main.js
+[21/11/2022 -- 16:5]  Scripts ran on main.js
+[21/11/2022 -- 16:6]  Scripts ran on main.js
+[21/11/2022 -- 16:6]  Scripts ran on main.js
+[21/11/2022 -- 16:7]  Scripts ran on main.js
+[21/11/2022 -- 16:7]  Scripts ran on main.js
+[21/11/2022 -- 16:7]  Scripts ran on main.js
+[21/11/2022 -- 16:7]  Scripts ran on main.js
+[21/11/2022 -- 16:7]  Scripts ran on main.js
+[21/11/2022 -- 16:7]  Scripts ran on main.js
+[21/11/2022 -- 16:8]  Scripts ran on main.js
+[21/11/2022 -- 16:8]  Scripts ran on main.js
+[21/11/2022 -- 16:8]  Scripts ran on main.js
+[21/11/2022 -- 16:9]  Scripts ran on main.js
+[21/11/2022 -- 16:9]  Scripts ran on main.js
+[21/11/2022 -- 16:9]  Scripts ran on main.js
+[21/11/2022 -- 16:9]  Scripts ran on main.js
+[21/11/2022 -- 16:10]  Scripts ran on main.js
+[21/11/2022 -- 16:10]  Scripts ran on main.js
+[21/11/2022 -- 16:10]  Scripts ran on main.js
+[21/11/2022 -- 16:10]  Scripts ran on main.js
+[21/11/2022 -- 16:10]  Scripts ran on main.js
+[21/11/2022 -- 16:10]  Scripts ran on main.js
+[21/11/2022 -- 16:10]  Scripts ran on main.js
+[21/11/2022 -- 16:10]  Scripts ran on main.js
+[21/11/2022 -- 16:10]  Scripts ran on main.js
+[21/11/2022 -- 16:10]  Scripts ran on main.js
+[21/11/2022 -- 16:11]  Scripts ran on main.js
+[21/11/2022 -- 16:11]  Scripts ran on main.js
+[21/11/2022 -- 16:11]  Scripts ran on main.js
+[21/11/2022 -- 16:11]  Scripts ran on main.js
+[21/11/2022 -- 16:11]  Scripts ran on main.js
+[21/11/2022 -- 16:11]  Scripts ran on main.js
+[21/11/2022 -- 16:11]  Scripts ran on main.js
+[21/11/2022 -- 16:11]  Scripts ran on main.js
+[21/11/2022 -- 16:11]  Scripts ran on main.js
+[21/11/2022 -- 16:11]  Scripts ran on main.js
+[21/11/2022 -- 16:11]  Scripts ran on main.js
+[21/11/2022 -- 16:11]  Scripts ran on main.js
+[21/11/2022 -- 16:11]  Scripts ran on main.js
+[21/11/2022 -- 16:11]  Scripts ran on main.js
+[21/11/2022 -- 16:11]  Scripts ran on main.js
+[21/11/2022 -- 16:12]  Scripts ran on main.js
+[21/11/2022 -- 16:12]  Scripts ran on main.js
+[21/11/2022 -- 16:12]  Scripts ran on main.js
+[21/11/2022 -- 16:12]  Scripts ran on main.js
+[21/11/2022 -- 16:12]  Scripts ran on main.js
+[21/11/2022 -- 16:12]  Scripts ran on main.js
+[21/11/2022 -- 16:12]  Scripts ran on main.js
+[21/11/2022 -- 16:12]  Scripts ran on main.js
+[21/11/2022 -- 16:12]  Scripts ran on main.js
+[21/11/2022 -- 16:13]  Scripts ran on main.js
+[21/11/2022 -- 16:13]  Scripts ran on main.js
+[21/11/2022 -- 16:13]  Scripts ran on main.js
+[21/11/2022 -- 16:13]  Scripts ran on main.js
+[21/11/2022 -- 16:13]  Scripts ran on main.js
+[21/11/2022 -- 16:14]  Scripts ran on main.js
+[21/11/2022 -- 16:14]  Scripts ran on main.js
+[21/11/2022 -- 16:14]  Scripts ran on main.js
+[21/11/2022 -- 16:14]  Scripts ran on main.js
+[21/11/2022 -- 16:14]  Scripts ran on main.js
+[21/11/2022 -- 16:14]  Scripts ran on main.js
+[21/11/2022 -- 16:14]  Scripts ran on main.js
+[21/11/2022 -- 16:15]  Scripts ran on main.js
+[21/11/2022 -- 16:15]  Scripts ran on main.js
+[21/11/2022 -- 16:15]  Scripts ran on main.js
+[21/11/2022 -- 16:15]  Scripts ran on main.js
+[21/11/2022 -- 16:16]  Scripts ran on main.js
+[21/11/2022 -- 16:16]  Scripts ran on main.js
+[21/11/2022 -- 16:16]  Scripts ran on main.js
+[21/11/2022 -- 16:17]  Scripts ran on main.js
+[21/11/2022 -- 16:17]  Scripts ran on main.js
+[21/11/2022 -- 16:18]  Scripts ran on main.js
+[21/11/2022 -- 16:18]  Scripts ran on main.js
+[21/11/2022 -- 16:18]  Scripts ran on main.js
+[21/11/2022 -- 16:18]  Scripts ran on main.js
+[21/11/2022 -- 16:18]  Scripts ran on main.js
+[21/11/2022 -- 16:18]  Scripts ran on main.js
+[21/11/2022 -- 16:18]  Scripts ran on main.js
+[21/11/2022 -- 16:18]  Scripts ran on main.js
+[21/11/2022 -- 16:19]  Scripts ran on main.js
+[21/11/2022 -- 16:19]  Scripts ran on main.js
+[21/11/2022 -- 16:19]  Scripts ran on main.js
+[21/11/2022 -- 16:19]  Scripts ran on main.js
+[21/11/2022 -- 16:19]  Scripts ran on main.js
+[21/11/2022 -- 16:19]  Scripts ran on main.js
+[21/11/2022 -- 16:19]  Scripts ran on main.js
+[21/11/2022 -- 16:19]  Scripts ran on main.js
+[21/11/2022 -- 16:20]  Scripts ran on main.js
+[21/11/2022 -- 16:20]  Scripts ran on main.js
+[21/11/2022 -- 16:20]  Scripts ran on main.js
+[21/11/2022 -- 16:20]  Scripts ran on main.js
+[21/11/2022 -- 16:20]  Scripts ran on main.js
+[21/11/2022 -- 16:20]  Scripts ran on main.js
+[21/11/2022 -- 16:20]  Scripts ran on main.js
+[21/11/2022 -- 16:20]  Scripts ran on main.js
+[21/11/2022 -- 16:20]  Scripts ran on main.js
+[21/11/2022 -- 16:20]  Scripts ran on main.js
+[21/11/2022 -- 16:20]  Scripts ran on main.js
+[21/11/2022 -- 16:20]  Scripts ran on main.js
+[21/11/2022 -- 16:20]  Scripts ran on main.js
+[21/11/2022 -- 16:20]  Scripts ran on main.js
+[21/11/2022 -- 16:21]  Scripts ran on main.js
+[21/11/2022 -- 16:21]  Scripts ran on main.js
+[21/11/2022 -- 16:21]  Scripts ran on main.js
+[21/11/2022 -- 16:21]  Scripts ran on main.js
+[21/11/2022 -- 16:21]  Scripts ran on main.js
+[21/11/2022 -- 16:21]  Scripts ran on main.js
+[21/11/2022 -- 16:22]  Scripts ran on main.js
+[21/11/2022 -- 16:22]  Scripts ran on main.js
+[21/11/2022 -- 16:22]  Scripts ran on main.js
+[21/11/2022 -- 16:22]  Scripts ran on main.js
+[21/11/2022 -- 16:22]  Scripts ran on main.js
+[21/11/2022 -- 16:23]  Scripts ran on main.js
+[21/11/2022 -- 16:23]  Scripts ran on main.js
+[21/11/2022 -- 16:23]  Scripts ran on main.js
+[21/11/2022 -- 16:24]  Scripts ran on main.js
+[21/11/2022 -- 16:24]  Scripts ran on main.js
+[21/11/2022 -- 16:25]  Scripts ran on main.js
+[21/11/2022 -- 16:25]  Scripts ran on main.js
+[21/11/2022 -- 16:25]  Scripts ran on main.js
+[21/11/2022 -- 16:25]  Scripts ran on main.js
+[21/11/2022 -- 16:26]  Scripts ran on main.js
+[21/11/2022 -- 16:26]  Scripts ran on main.js
+[21/11/2022 -- 16:26]  Scripts ran on main.js
+[21/11/2022 -- 16:26]  Scripts ran on main.js
+[21/11/2022 -- 16:27]  Scripts ran on main.js
+[21/11/2022 -- 16:27]  Scripts ran on main.js
+[21/11/2022 -- 16:28]  Scripts ran on main.js
+[21/11/2022 -- 16:28]  Scripts ran on main.js
+[21/11/2022 -- 16:28]  Scripts ran on main.js
+[21/11/2022 -- 16:28]  Scripts ran on main.js
+[21/11/2022 -- 16:28]  Scripts ran on main.js
+[21/11/2022 -- 16:28]  Scripts ran on main.js
+[21/11/2022 -- 16:29]  Scripts ran on main.js
+[21/11/2022 -- 16:29]  Scripts ran on main.js
+[21/11/2022 -- 16:29]  Scripts ran on main.js
+[21/11/2022 -- 16:29]  Scripts ran on main.js
+[21/11/2022 -- 16:29]  Scripts ran on main.js
+[21/11/2022 -- 16:29]  Scripts ran on main.js
+[21/11/2022 -- 16:30]  Scripts ran on main.js
+[21/11/2022 -- 16:30]  Scripts ran on main.js
+[21/11/2022 -- 16:30]  Scripts ran on main.js
+[21/11/2022 -- 16:30]  Scripts ran on main.js
+[21/11/2022 -- 16:30]  Scripts ran on main.js
+[21/11/2022 -- 16:31]  Scripts ran on main.js
+[21/11/2022 -- 16:31]  Scripts ran on main.js
+[21/11/2022 -- 16:31]  Scripts ran on main.js
+[21/11/2022 -- 16:32]  Scripts ran on main.js
+[21/11/2022 -- 16:32]  Scripts ran on main.js
+[21/11/2022 -- 16:32]  Scripts ran on main.js
+[21/11/2022 -- 16:32]  Scripts ran on main.js
+[21/11/2022 -- 16:32]  Scripts ran on main.js
+[21/11/2022 -- 16:32]  Scripts ran on main.js
+[21/11/2022 -- 16:33]  Scripts ran on main.js
+[21/11/2022 -- 16:33]  Scripts ran on main.js
+[21/11/2022 -- 16:33]  Scripts ran on main.js
+[21/11/2022 -- 16:33]  Scripts ran on main.js
+[21/11/2022 -- 16:34]  Scripts ran on main.js
+[21/11/2022 -- 16:34]  Scripts ran on main.js
+[21/11/2022 -- 16:34]  Scripts ran on main.js
+[21/11/2022 -- 16:34]  Scripts ran on main.js
+[21/11/2022 -- 16:34]  Scripts ran on main.js
+[21/11/2022 -- 16:34]  Scripts ran on main.js
+[21/11/2022 -- 16:34]  Scripts ran on main.js
+[21/11/2022 -- 16:34]  Scripts ran on main.js
+[21/11/2022 -- 16:34]  Scripts ran on main.js
+[21/11/2022 -- 16:34]  Scripts ran on main.js
+[21/11/2022 -- 16:34]  Scripts ran on main.js
+[21/11/2022 -- 16:34]  Scripts ran on main.js
+[21/11/2022 -- 16:35]  Scripts ran on main.js
+[21/11/2022 -- 16:35]  Scripts ran on main.js
+[21/11/2022 -- 16:35]  Scripts ran on main.js
+[21/11/2022 -- 16:35]  Scripts ran on main.js
+[21/11/2022 -- 16:35]  Scripts ran on main.js
+[21/11/2022 -- 16:35]  Scripts ran on main.js
+[21/11/2022 -- 16:35]  Scripts ran on main.js
+[21/11/2022 -- 16:35]  Scripts ran on main.js
+[21/11/2022 -- 16:36]  Scripts ran on main.js
+[21/11/2022 -- 16:36]  Scripts ran on main.js
+[21/11/2022 -- 16:36]  Scripts ran on main.js
+[21/11/2022 -- 16:36]  Scripts ran on main.js
+[21/11/2022 -- 16:36]  Scripts ran on main.js
+[21/11/2022 -- 16:36]  Scripts ran on main.js
+[21/11/2022 -- 16:37]  Scripts ran on main.js
+[21/11/2022 -- 16:37]  Scripts ran on main.js
+[21/11/2022 -- 16:37]  Scripts ran on main.js
+[21/11/2022 -- 16:37]  Scripts ran on main.js
+[21/11/2022 -- 16:37]  Scripts ran on main.js
+[21/11/2022 -- 16:37]  Scripts ran on main.js
+[21/11/2022 -- 16:37]  Scripts ran on main.js
+[21/11/2022 -- 16:37]  Scripts ran on main.js
+[21/11/2022 -- 16:37]  Scripts ran on main.js
+[21/11/2022 -- 16:39]  Scripts ran on main.js
+[21/11/2022 -- 16:39]  Scripts ran on main.js
+[21/11/2022 -- 16:39]  Scripts ran on main.js
+[21/11/2022 -- 16:39]  Scripts ran on main.js
+[21/11/2022 -- 16:41]  Info task started
+[21/11/2022 -- 16:41]  Mustache Templates ran on the HTML files
+[21/11/2022 -- 16:41]  Scripts ran on main.js
+[21/11/2022 -- 16:41]  Sass ran on files
+[21/11/2022 -- 16:43]  Scripts ran on main.js
+[21/11/2022 -- 16:43]  Scripts ran on main.js
+[21/11/2022 -- 16:44]  Scripts ran on main.js
+[21/11/2022 -- 16:44]  Scripts ran on main.js
+[21/11/2022 -- 16:44]  Scripts ran on main.js
+[21/11/2022 -- 16:44]  Scripts ran on main.js
+[21/11/2022 -- 16:46]  Scripts ran on main.js
+[21/11/2022 -- 16:46]  Scripts ran on main.js
+[21/11/2022 -- 16:46]  Scripts ran on main.js
+[21/11/2022 -- 16:46]  Scripts ran on main.js
+[21/11/2022 -- 16:47]  Scripts ran on main.js
+[21/11/2022 -- 16:47]  Scripts ran on main.js
+[21/11/2022 -- 16:47]  Scripts ran on main.js
+[21/11/2022 -- 16:47]  Scripts ran on main.js
+[21/11/2022 -- 16:47]  Scripts ran on main.js
+[21/11/2022 -- 16:47]  Scripts ran on main.js
+[21/11/2022 -- 16:48]  Scripts ran on main.js
+[21/11/2022 -- 16:48]  Scripts ran on main.js
+[21/11/2022 -- 16:49]  Scripts ran on main.js
+[21/11/2022 -- 16:49]  Scripts ran on main.js
+[21/11/2022 -- 16:49]  Scripts ran on main.js
+[21/11/2022 -- 16:49]  Scripts ran on main.js
+[21/11/2022 -- 16:49]  Scripts ran on main.js
+[21/11/2022 -- 16:49]  Scripts ran on main.js
+[21/11/2022 -- 16:50]  Scripts ran on main.js
+[21/11/2022 -- 16:50]  Scripts ran on main.js
+[21/11/2022 -- 16:50]  Scripts ran on main.js
+[21/11/2022 -- 16:50]  Scripts ran on main.js
+[21/11/2022 -- 16:50]  Scripts ran on main.js
+[21/11/2022 -- 16:50]  Scripts ran on main.js
+[21/11/2022 -- 16:50]  Scripts ran on main.js
+[21/11/2022 -- 16:51]  Scripts ran on main.js
+[21/11/2022 -- 16:51]  Scripts ran on main.js
+[21/11/2022 -- 16:51]  Scripts ran on main.js
+[21/11/2022 -- 16:51]  Scripts ran on main.js
+[21/11/2022 -- 16:51]  Scripts ran on main.js
+[21/11/2022 -- 16:52]  Scripts ran on main.js
+[21/11/2022 -- 16:52]  Scripts ran on main.js
+[21/11/2022 -- 16:52]  Scripts ran on main.js
+[21/11/2022 -- 16:52]  Scripts ran on main.js
+[21/11/2022 -- 16:52]  Scripts ran on main.js
+[21/11/2022 -- 16:52]  Scripts ran on main.js
+[21/11/2022 -- 16:52]  Scripts ran on main.js
+[21/11/2022 -- 16:52]  Scripts ran on main.js
+[21/11/2022 -- 16:53]  Scripts ran on main.js
+[21/11/2022 -- 16:53]  Scripts ran on main.js
+[21/11/2022 -- 16:53]  Scripts ran on main.js
+[21/11/2022 -- 16:53]  Scripts ran on main.js
+[21/11/2022 -- 16:53]  Scripts ran on main.js
+[21/11/2022 -- 16:53]  Scripts ran on main.js
+[21/11/2022 -- 16:53]  Scripts ran on main.js
+[21/11/2022 -- 16:53]  Scripts ran on main.js
+[21/11/2022 -- 16:53]  Scripts ran on main.js
+[21/11/2022 -- 16:54]  Scripts ran on main.js
+[21/11/2022 -- 16:54]  Scripts ran on main.js
+[21/11/2022 -- 16:54]  Scripts ran on main.js
+[21/11/2022 -- 16:54]  Scripts ran on main.js
+[21/11/2022 -- 16:54]  Scripts ran on main.js
+[21/11/2022 -- 16:54]  Scripts ran on main.js
+[21/11/2022 -- 16:54]  Scripts ran on main.js
+[21/11/2022 -- 16:54]  Scripts ran on main.js
+[21/11/2022 -- 16:54]  Scripts ran on main.js
+[21/11/2022 -- 16:54]  Scripts ran on main.js
+[21/11/2022 -- 16:55]  Scripts ran on main.js
+[21/11/2022 -- 16:55]  Scripts ran on main.js
+[21/11/2022 -- 16:55]  Scripts ran on main.js
+[21/11/2022 -- 16:55]  Scripts ran on main.js
+[21/11/2022 -- 16:55]  Scripts ran on main.js
+[21/11/2022 -- 16:55]  Scripts ran on main.js
+[21/11/2022 -- 16:55]  Scripts ran on main.js
+[21/11/2022 -- 16:55]  Scripts ran on main.js
+[21/11/2022 -- 16:55]  Scripts ran on main.js
+[21/11/2022 -- 16:55]  Scripts ran on main.js
+[21/11/2022 -- 16:56]  Scripts ran on main.js
+[21/11/2022 -- 16:56]  Scripts ran on main.js
+[21/11/2022 -- 16:56]  Scripts ran on main.js
+[21/11/2022 -- 16:56]  Scripts ran on main.js
+[21/11/2022 -- 16:56]  Scripts ran on main.js
+[21/11/2022 -- 16:56]  Scripts ran on main.js
+[21/11/2022 -- 16:56]  Scripts ran on main.js
+[21/11/2022 -- 16:56]  Scripts ran on main.js
+[21/11/2022 -- 16:56]  Scripts ran on main.js
+[21/11/2022 -- 16:56]  Scripts ran on main.js
+[21/11/2022 -- 16:56]  Scripts ran on main.js
+[21/11/2022 -- 16:56]  Scripts ran on main.js
+[21/11/2022 -- 16:56]  Scripts ran on main.js
+[21/11/2022 -- 16:57]  Scripts ran on main.js
+[21/11/2022 -- 16:57]  Scripts ran on main.js
+[21/11/2022 -- 16:57]  Scripts ran on main.js
+[21/11/2022 -- 16:57]  Scripts ran on main.js
+[21/11/2022 -- 16:57]  Scripts ran on main.js
+[21/11/2022 -- 16:57]  Scripts ran on main.js
+[21/11/2022 -- 16:57]  Scripts ran on main.js
+[21/11/2022 -- 16:57]  Scripts ran on main.js
+[21/11/2022 -- 16:57]  Scripts ran on main.js
+[21/11/2022 -- 16:57]  Scripts ran on main.js
+[21/11/2022 -- 16:57]  Scripts ran on main.js
+[21/11/2022 -- 16:58]  restarted!
+[21/11/2022 -- 16:58]  restarted!
+[21/11/2022 -- 17:2]  Info task started
+[21/11/2022 -- 17:2]  restarted!
+[21/11/2022 -- 17:2]  Mustache Templates ran on the HTML files
+[21/11/2022 -- 17:2]  Scripts ran on main.js
+[21/11/2022 -- 17:2]  restarted!
+[21/11/2022 -- 17:2]  restarted!
+[21/11/2022 -- 17:2]  restarted!
+[21/11/2022 -- 17:2]  Sass ran on files
+[21/11/2022 -- 17:2]  restarted!
+[21/11/2022 -- 17:2]  restarted!
+[21/11/2022 -- 17:2]  restarted!
+[21/11/2022 -- 17:2]  restarted!
+[21/11/2022 -- 17:2]  restarted!
+[21/11/2022 -- 17:3]  restarted!
+[21/11/2022 -- 17:3]  restarted!
+[21/11/2022 -- 17:3]  restarted!
+[21/11/2022 -- 17:3]  restarted!
+[21/11/2022 -- 17:3]  restarted!
+[21/11/2022 -- 17:3]  restarted!
+[21/11/2022 -- 17:3]  Scripts ran on main.js
+[21/11/2022 -- 17:3]  Scripts ran on main.js
+[21/11/2022 -- 17:3]  Scripts ran on main.js
+[21/11/2022 -- 17:3]  Scripts ran on main.js
+[21/11/2022 -- 17:3]  Scripts ran on main.js
+[21/11/2022 -- 17:4]  restarted!
+[21/11/2022 -- 17:4]  restarted!
+[21/11/2022 -- 17:4]  restarted!
+[21/11/2022 -- 17:4]  restarted!
+[21/11/2022 -- 17:4]  restarted!
+[21/11/2022 -- 17:5]  restarted!
+[21/11/2022 -- 17:5]  restarted!
+[21/11/2022 -- 17:5]  restarted!
+[21/11/2022 -- 17:5]  restarted!
+[21/11/2022 -- 17:5]  Info task started
+[21/11/2022 -- 17:5]  Mustache Templates ran on the HTML files
+[21/11/2022 -- 17:5]  Scripts ran on main.js
+[21/11/2022 -- 17:5]  Sass ran on files
+[21/11/2022 -- 17:5]  restarted!
+[21/11/2022 -- 17:5]  restarted!
+[21/11/2022 -- 17:6]  restarted!
+[21/11/2022 -- 17:6]  restarted!
+[21/11/2022 -- 17:6]  restarted!
+[21/11/2022 -- 17:6]  restarted!
+[21/11/2022 -- 17:6]  restarted!
+[21/11/2022 -- 17:6]  restarted!
+[21/11/2022 -- 17:7]  restarted!
+[21/11/2022 -- 17:7]  restarted!
+[21/11/2022 -- 17:7]  restarted!
+[21/11/2022 -- 17:9]  restarted!
+[21/11/2022 -- 17:9]  restarted!
+[21/11/2022 -- 17:9]  restarted!
+[21/11/2022 -- 17:10]  restarted!
+[21/11/2022 -- 17:10]  restarted!
+[21/11/2022 -- 17:10]  restarted!
+[21/11/2022 -- 17:10]  restarted!
+[21/11/2022 -- 17:10]  Info task started
+[21/11/2022 -- 17:10]  Mustache Templates ran on the HTML files
+[21/11/2022 -- 17:10]  Scripts ran on main.js
+[21/11/2022 -- 17:11]  restarted!
+[21/11/2022 -- 17:11]  restarted!
+[21/11/2022 -- 17:11]  Sass ran on files
+[21/11/2022 -- 17:11]  restarted!
+[21/11/2022 -- 17:11]  restarted!
+[21/11/2022 -- 17:11]  restarted!
+[21/11/2022 -- 17:11]  restarted!
+[21/11/2022 -- 17:11]  restarted!
+[21/11/2022 -- 17:11]  restarted!
+[21/11/2022 -- 17:11]  restarted!
+[21/11/2022 -- 17:11]  restarted!
+[21/11/2022 -- 17:12]  restarted!
+[21/11/2022 -- 17:12]  restarted!
+[21/11/2022 -- 17:12]  restarted!
+[21/11/2022 -- 17:12]  restarted!
+[21/11/2022 -- 17:12]  restarted!
+[21/11/2022 -- 17:12]  restarted!
+[21/11/2022 -- 17:12]  restarted!
+[21/11/2022 -- 17:12]  restarted!
+[21/11/2022 -- 17:13]  restarted!
+[21/11/2022 -- 17:13]  restarted!
+[21/11/2022 -- 17:13]  restarted!
+[21/11/2022 -- 17:14]  restarted!
+[21/11/2022 -- 17:14]  restarted!
+[21/11/2022 -- 17:14]  restarted!
+[21/11/2022 -- 17:14]  restarted!
+[21/11/2022 -- 17:14]  restarted!
+[21/11/2022 -- 17:14]  restarted!
+[21/11/2022 -- 17:14]  restarted!
+[21/11/2022 -- 17:15]  restarted!
+[21/11/2022 -- 17:15]  restarted!
+[21/11/2022 -- 17:15]  restarted!
+[21/11/2022 -- 17:15]  restarted!
+[21/11/2022 -- 17:15]  restarted!
+[21/11/2022 -- 17:15]  restarted!
+[21/11/2022 -- 17:15]  restarted!
+[21/11/2022 -- 17:15]  restarted!
+[21/11/2022 -- 17:15]  restarted!
+[21/11/2022 -- 17:15]  restarted!
+[21/11/2022 -- 17:15]  restarted!
+[21/11/2022 -- 17:15]  restarted!
+[21/11/2022 -- 17:15]  restarted!
+[21/11/2022 -- 17:15]  restarted!
+[21/11/2022 -- 17:15]  restarted!
+[21/11/2022 -- 17:16]  restarted!
+[21/11/2022 -- 17:16]  restarted!
+[21/11/2022 -- 17:16]  Scripts ran on main.js
+[21/11/2022 -- 17:16]  Scripts ran on main.js
+[21/11/2022 -- 17:16]  Scripts ran on main.js
+[21/11/2022 -- 17:16]  restarted!
+[21/11/2022 -- 17:16]  restarted!
+[21/11/2022 -- 17:16]  restarted!
+[21/11/2022 -- 17:17]  Scripts ran on main.js
+[21/11/2022 -- 17:17]  Scripts ran on main.js
+[21/11/2022 -- 17:17]  Scripts ran on main.js
+[21/11/2022 -- 17:17]  Scripts ran on main.js
+[21/11/2022 -- 17:17]  Scripts ran on main.js
+[21/11/2022 -- 17:17]  Scripts ran on main.js
+[21/11/2022 -- 17:18]  Scripts ran on main.js
+[21/11/2022 -- 17:18]  Scripts ran on main.js
+[21/11/2022 -- 17:18]  Scripts ran on main.js
+[21/11/2022 -- 17:18]  Scripts ran on main.js
+[21/11/2022 -- 17:18]  Scripts ran on main.js
+[21/11/2022 -- 17:18]  restarted!
+[21/11/2022 -- 17:18]  restarted!
+[21/11/2022 -- 17:18]  restarted!
+[21/11/2022 -- 17:18]  restarted!
+[21/11/2022 -- 17:18]  restarted!
+[21/11/2022 -- 17:18]  restarted!
+[21/11/2022 -- 17:18]  restarted!
+[21/11/2022 -- 17:19]  restarted!
+[21/11/2022 -- 17:19]  restarted!
+[21/11/2022 -- 17:19]  restarted!
+[21/11/2022 -- 17:19]  restarted!
+[21/11/2022 -- 17:19]  restarted!
+[21/11/2022 -- 17:19]  Scripts ran on main.js
+[21/11/2022 -- 17:19]  Scripts ran on main.js
+[21/11/2022 -- 17:19]  Scripts ran on main.js
+[21/11/2022 -- 17:19]  Scripts ran on main.js
+[21/11/2022 -- 17:19]  Scripts ran on main.js
+[21/11/2022 -- 17:19]  restarted!
+[21/11/2022 -- 17:19]  restarted!
+[21/11/2022 -- 17:20]  restarted!
+[21/11/2022 -- 17:20]  restarted!
+[21/11/2022 -- 17:20]  restarted!
+[21/11/2022 -- 17:20]  restarted!
+[21/11/2022 -- 17:20]  restarted!
+[21/11/2022 -- 17:20]  restarted!
+[21/11/2022 -- 17:20]  restarted!
+[21/11/2022 -- 17:20]  restarted!
+[21/11/2022 -- 17:20]  restarted!
+[21/11/2022 -- 17:20]  restarted!
+[21/11/2022 -- 17:20]  restarted!
+[21/11/2022 -- 17:20]  restarted!
+[21/11/2022 -- 17:20]  restarted!
+[21/11/2022 -- 17:20]  restarted!
+[21/11/2022 -- 17:20]  restarted!
+[21/11/2022 -- 17:20]  restarted!
+[21/11/2022 -- 17:21]  restarted!
+[21/11/2022 -- 17:21]  restarted!
+[21/11/2022 -- 17:22]  restarted!
+[21/11/2022 -- 17:22]  restarted!
+[21/11/2022 -- 17:22]  restarted!
+[21/11/2022 -- 17:22]  restarted!
+[21/11/2022 -- 17:23]  restarted!
+[21/11/2022 -- 17:23]  restarted!
+[21/11/2022 -- 17:23]  restarted!
+[21/11/2022 -- 17:23]  restarted!
+[21/11/2022 -- 17:23]  restarted!
+[21/11/2022 -- 17:23]  Scripts ran on main.js
+[21/11/2022 -- 17:23]  Scripts ran on main.js
+[21/11/2022 -- 17:23]  restarted!
+[21/11/2022 -- 17:23]  restarted!
+[21/11/2022 -- 17:23]  restarted!
+[21/11/2022 -- 17:23]  Scripts ran on main.js
+[21/11/2022 -- 17:23]  Scripts ran on main.js
+[21/11/2022 -- 17:24]  Scripts ran on main.js
+[21/11/2022 -- 17:24]  Scripts ran on main.js
+[21/11/2022 -- 17:24]  Scripts ran on main.js
+[21/11/2022 -- 17:24]  Scripts ran on main.js
+[21/11/2022 -- 17:24]  Scripts ran on main.js
+[21/11/2022 -- 17:25]  Scripts ran on main.js
+[21/11/2022 -- 17:25]  Scripts ran on main.js
+[21/11/2022 -- 17:25]  Scripts ran on main.js
+[21/11/2022 -- 17:25]  restarted!
+[21/11/2022 -- 17:25]  restarted!
+[21/11/2022 -- 17:25]  restarted!
+[21/11/2022 -- 17:25]  restarted!
+[21/11/2022 -- 17:26]  restarted!
+[21/11/2022 -- 17:26]  restarted!
+[21/11/2022 -- 17:26]  restarted!
+[21/11/2022 -- 17:27]  restarted!
+[21/11/2022 -- 17:27]  restarted!
+[21/11/2022 -- 17:27]  restarted!
+[21/11/2022 -- 17:27]  restarted!
+[21/11/2022 -- 17:27]  restarted!
+[21/11/2022 -- 17:27]  restarted!
+[21/11/2022 -- 17:29]  restarted!
+[21/11/2022 -- 17:29]  restarted!
+[21/11/2022 -- 17:30]  restarted!
+[21/11/2022 -- 17:30]  restarted!
+[21/11/2022 -- 17:30]  restarted!
+[21/11/2022 -- 17:30]  restarted!
+[21/11/2022 -- 17:30]  restarted!
+[21/11/2022 -- 17:30]  restarted!
+[21/11/2022 -- 17:30]  restarted!
+[21/11/2022 -- 17:30]  restarted!
+[21/11/2022 -- 17:30]  restarted!
+[21/11/2022 -- 17:30]  restarted!
+[21/11/2022 -- 17:30]  restarted!
+[21/11/2022 -- 17:30]  restarted!
+[21/11/2022 -- 17:30]  restarted!
+[21/11/2022 -- 17:30]  restarted!
+[21/11/2022 -- 17:30]  restarted!
+[21/11/2022 -- 17:30]  restarted!
+[21/11/2022 -- 17:30]  restarted!
+[21/11/2022 -- 17:31]  restarted!
+[21/11/2022 -- 17:31]  restarted!
+[21/11/2022 -- 17:31]  restarted!
+[21/11/2022 -- 17:31]  restarted!
+[21/11/2022 -- 17:33]  restarted!
+[21/11/2022 -- 17:33]  restarted!
+[21/11/2022 -- 17:33]  restarted!
+[21/11/2022 -- 17:34]  restarted!
+[21/11/2022 -- 17:34]  restarted!
+[21/11/2022 -- 17:34]  restarted!
+[21/11/2022 -- 17:35]  restarted!
+[21/11/2022 -- 17:35]  restarted!
+[21/11/2022 -- 17:35]  restarted!
+[21/11/2022 -- 17:35]  restarted!
+[21/11/2022 -- 17:35]  restarted!
+[21/11/2022 -- 17:35]  restarted!
+[21/11/2022 -- 17:35]  restarted!
+[21/11/2022 -- 17:35]  restarted!
+[21/11/2022 -- 17:35]  restarted!
+[21/11/2022 -- 17:35]  restarted!
+[21/11/2022 -- 17:35]  restarted!
+[21/11/2022 -- 17:35]  restarted!
+[21/11/2022 -- 17:35]  restarted!
+[21/11/2022 -- 17:35]  restarted!
+[21/11/2022 -- 17:36]  restarted!
+[21/11/2022 -- 17:36]  restarted!
+[21/11/2022 -- 17:36]  restarted!
+[21/11/2022 -- 17:36]  restarted!
+[21/11/2022 -- 17:36]  restarted!
+[21/11/2022 -- 17:36]  restarted!
+[21/11/2022 -- 17:36]  restarted!
+[21/11/2022 -- 17:36]  restarted!
+[21/11/2022 -- 17:36]  restarted!
+[21/11/2022 -- 17:37]  restarted!
+[21/11/2022 -- 17:37]  restarted!
+[21/11/2022 -- 17:37]  restarted!
+[21/11/2022 -- 17:37]  restarted!
+[21/11/2022 -- 17:37]  restarted!
+[21/11/2022 -- 17:37]  restarted!
+[21/11/2022 -- 17:37]  restarted!
+[21/11/2022 -- 17:37]  restarted!
+[21/11/2022 -- 17:37]  restarted!
+[21/11/2022 -- 17:37]  restarted!
+[21/11/2022 -- 17:37]  restarted!
+[21/11/2022 -- 17:37]  restarted!
+[21/11/2022 -- 17:37]  restarted!
+[21/11/2022 -- 17:37]  restarted!
+[21/11/2022 -- 17:37]  restarted!
+[21/11/2022 -- 17:37]  restarted!
+[21/11/2022 -- 17:37]  restarted!
+[21/11/2022 -- 17:37]  restarted!
+[21/11/2022 -- 17:37]  restarted!
+[21/11/2022 -- 17:37]  restarted!
+[21/11/2022 -- 17:38]  restarted!
+[21/11/2022 -- 17:38]  restarted!
+[21/11/2022 -- 17:38]  restarted!
+[21/11/2022 -- 17:38]  restarted!
+[21/11/2022 -- 17:38]  restarted!
+[21/11/2022 -- 17:38]  restarted!
+[21/11/2022 -- 17:38]  restarted!
+[21/11/2022 -- 17:38]  restarted!
+[21/11/2022 -- 17:38]  restarted!
+[21/11/2022 -- 17:38]  restarted!
+[21/11/2022 -- 17:38]  restarted!
+[21/11/2022 -- 17:38]  restarted!
+[21/11/2022 -- 17:38]  restarted!
+[21/11/2022 -- 17:38]  restarted!
+[21/11/2022 -- 17:38]  restarted!
+[21/11/2022 -- 17:38]  restarted!
+[21/11/2022 -- 17:38]  restarted!
+[21/11/2022 -- 17:38]  restarted!
+[21/11/2022 -- 17:38]  restarted!
+[21/11/2022 -- 17:38]  restarted!
+[21/11/2022 -- 17:38]  restarted!
+[21/11/2022 -- 17:38]  restarted!
+[21/11/2022 -- 17:39]  restarted!
+[21/11/2022 -- 17:39]  restarted!
+[21/11/2022 -- 17:39]  restarted!
+[21/11/2022 -- 17:39]  restarted!
+[21/11/2022 -- 17:39]  restarted!
+[21/11/2022 -- 17:39]  restarted!
+[21/11/2022 -- 17:39]  restarted!
+[21/11/2022 -- 17:39]  restarted!
+[21/11/2022 -- 17:39]  restarted!
+[21/11/2022 -- 17:39]  restarted!
+[21/11/2022 -- 17:39]  restarted!
+[21/11/2022 -- 17:40]  restarted!
+[21/11/2022 -- 17:40]  restarted!
+[21/11/2022 -- 17:40]  restarted!
+[21/11/2022 -- 17:40]  restarted!
+[21/11/2022 -- 17:40]  restarted!
+[21/11/2022 -- 17:40]  restarted!
+[21/11/2022 -- 17:40]  restarted!
+[21/11/2022 -- 17:40]  restarted!
+[21/11/2022 -- 17:40]  restarted!
+[21/11/2022 -- 17:40]  restarted!
+[21/11/2022 -- 17:40]  restarted!
+[21/11/2022 -- 17:40]  restarted!
+[21/11/2022 -- 17:40]  restarted!
+[21/11/2022 -- 17:40]  restarted!
+[21/11/2022 -- 17:40]  restarted!
+[21/11/2022 -- 17:40]  restarted!
+[21/11/2022 -- 17:40]  restarted!
+[21/11/2022 -- 17:40]  restarted!
+[21/11/2022 -- 17:40]  restarted!
+[21/11/2022 -- 17:40]  restarted!
+[21/11/2022 -- 17:40]  restarted!
+[21/11/2022 -- 17:40]  restarted!
+[21/11/2022 -- 17:40]  restarted!
+[21/11/2022 -- 17:40]  restarted!
+[21/11/2022 -- 17:40]  restarted!
+[21/11/2022 -- 17:41]  restarted!
+[21/11/2022 -- 17:41]  restarted!
+[21/11/2022 -- 17:41]  restarted!
+[21/11/2022 -- 17:41]  restarted!
+[21/11/2022 -- 17:41]  restarted!
+[21/11/2022 -- 17:41]  restarted!
+[21/11/2022 -- 17:41]  restarted!
+[21/11/2022 -- 17:41]  restarted!
+[21/11/2022 -- 17:41]  restarted!
+[21/11/2022 -- 17:41]  restarted!
+[21/11/2022 -- 17:41]  restarted!
+[21/11/2022 -- 17:41]  restarted!
+[21/11/2022 -- 17:41]  restarted!
+[21/11/2022 -- 17:41]  restarted!
+[21/11/2022 -- 17:41]  restarted!
+[21/11/2022 -- 17:41]  restarted!
+[21/11/2022 -- 17:41]  restarted!
+[21/11/2022 -- 17:41]  restarted!
+[21/11/2022 -- 17:41]  restarted!
+[21/11/2022 -- 17:41]  restarted!
+[21/11/2022 -- 17:41]  restarted!
+[21/11/2022 -- 17:41]  restarted!
+[21/11/2022 -- 17:42]  restarted!
+[21/11/2022 -- 17:42]  restarted!
+[21/11/2022 -- 17:42]  restarted!
+[21/11/2022 -- 17:42]  Scripts ran on main.js
+[21/11/2022 -- 17:42]  Scripts ran on main.js
+[21/11/2022 -- 17:42]  restarted!
+[21/11/2022 -- 17:42]  restarted!
+[21/11/2022 -- 17:43]  restarted!
+[21/11/2022 -- 17:43]  restarted!
+[21/11/2022 -- 17:43]  restarted!
+[21/11/2022 -- 17:43]  restarted!
+[21/11/2022 -- 17:43]  restarted!
+[21/11/2022 -- 17:44]  restarted!
+[21/11/2022 -- 17:44]  restarted!
+[21/11/2022 -- 17:44]  restarted!
+[21/11/2022 -- 17:44]  restarted!
+[21/11/2022 -- 17:44]  restarted!
+[21/11/2022 -- 17:44]  restarted!
+[21/11/2022 -- 17:44]  restarted!
+[21/11/2022 -- 17:44]  restarted!
+[21/11/2022 -- 17:44]  restarted!
+[21/11/2022 -- 17:44]  restarted!
+[21/11/2022 -- 17:44]  restarted!
+[21/11/2022 -- 17:44]  restarted!
+[21/11/2022 -- 17:44]  restarted!
+[21/11/2022 -- 17:44]  restarted!
+[21/11/2022 -- 17:44]  restarted!
+[21/11/2022 -- 17:44]  restarted!
+[21/11/2022 -- 17:44]  restarted!
+[21/11/2022 -- 17:44]  restarted!
+[21/11/2022 -- 17:44]  restarted!
+[21/11/2022 -- 17:44]  restarted!
+[21/11/2022 -- 17:44]  restarted!
+[21/11/2022 -- 17:44]  restarted!
+[21/11/2022 -- 17:44]  restarted!
+[21/11/2022 -- 17:44]  restarted!
+[21/11/2022 -- 17:45]  restarted!
+[21/11/2022 -- 17:45]  restarted!
+[21/11/2022 -- 17:45]  restarted!
+[21/11/2022 -- 17:45]  restarted!
+[21/11/2022 -- 17:45]  restarted!
+[21/11/2022 -- 17:45]  restarted!
+[21/11/2022 -- 17:45]  restarted!
+[21/11/2022 -- 17:45]  restarted!
+[21/11/2022 -- 17:45]  restarted!
+[21/11/2022 -- 17:45]  restarted!
+[21/11/2022 -- 17:45]  restarted!
+[21/11/2022 -- 17:45]  restarted!
+[21/11/2022 -- 17:45]  restarted!
+[21/11/2022 -- 17:45]  restarted!
+[21/11/2022 -- 17:45]  restarted!
+[21/11/2022 -- 17:45]  restarted!
+[21/11/2022 -- 17:45]  restarted!
+[21/11/2022 -- 17:46]  restarted!
+[21/11/2022 -- 17:46]  restarted!
+[21/11/2022 -- 17:46]  restarted!
+[21/11/2022 -- 17:46]  restarted!
+[21/11/2022 -- 17:46]  restarted!
+[21/11/2022 -- 17:46]  restarted!
+[21/11/2022 -- 17:46]  restarted!
+[21/11/2022 -- 17:46]  restarted!
+[21/11/2022 -- 17:46]  restarted!
+[21/11/2022 -- 17:46]  restarted!
+[21/11/2022 -- 17:46]  restarted!
+[21/11/2022 -- 17:47]  restarted!
+[21/11/2022 -- 17:47]  restarted!
+[21/11/2022 -- 17:47]  restarted!
+[21/11/2022 -- 17:47]  restarted!
+[21/11/2022 -- 17:47]  restarted!
+[21/11/2022 -- 17:47]  restarted!
+[21/11/2022 -- 17:47]  restarted!
+[21/11/2022 -- 17:47]  restarted!
+[21/11/2022 -- 17:47]  restarted!
+[21/11/2022 -- 17:47]  restarted!
+[21/11/2022 -- 17:47]  restarted!
+[21/11/2022 -- 17:47]  restarted!
+[21/11/2022 -- 17:48]  restarted!
+[21/11/2022 -- 17:48]  restarted!
+[21/11/2022 -- 17:48]  restarted!
+[21/11/2022 -- 17:49]  restarted!
+[21/11/2022 -- 17:50]  restarted!
+[21/11/2022 -- 17:50]  restarted!
+[21/11/2022 -- 17:50]  restarted!
+[21/11/2022 -- 17:50]  restarted!
+[21/11/2022 -- 17:50]  restarted!
+[21/11/2022 -- 17:50]  restarted!
+[21/11/2022 -- 17:50]  restarted!
+[21/11/2022 -- 17:50]  restarted!
+[21/11/2022 -- 17:50]  restarted!
+[21/11/2022 -- 17:50]  restarted!
+[21/11/2022 -- 17:50]  restarted!
+[21/11/2022 -- 17:50]  restarted!
+[21/11/2022 -- 17:50]  restarted!
+[21/11/2022 -- 17:50]  restarted!
+[21/11/2022 -- 17:50]  restarted!
+[21/11/2022 -- 17:50]  restarted!
+[21/11/2022 -- 17:50]  restarted!
+[21/11/2022 -- 17:51]  restarted!
+[21/11/2022 -- 17:51]  restarted!
+[21/11/2022 -- 17:51]  restarted!
+[21/11/2022 -- 17:51]  restarted!
+[21/11/2022 -- 17:51]  restarted!
+[21/11/2022 -- 17:51]  restarted!
+[21/11/2022 -- 17:51]  restarted!
+[21/11/2022 -- 17:51]  restarted!
+[21/11/2022 -- 17:51]  restarted!
+[21/11/2022 -- 17:51]  restarted!
+[21/11/2022 -- 17:51]  restarted!
+[21/11/2022 -- 17:52]  restarted!
+[21/11/2022 -- 17:52]  restarted!
+[21/11/2022 -- 17:52]  restarted!
+[21/11/2022 -- 17:52]  restarted!
+[21/11/2022 -- 17:54]  restarted!
+[21/11/2022 -- 17:54]  restarted!
+[21/11/2022 -- 17:54]  restarted!
+[21/11/2022 -- 17:54]  restarted!
+[21/11/2022 -- 17:54]  restarted!
+[21/11/2022 -- 17:54]  restarted!
+[21/11/2022 -- 17:54]  restarted!
+[21/11/2022 -- 17:54]  restarted!
+[21/11/2022 -- 17:56]  restarted!
+[21/11/2022 -- 17:56]  restarted!
+[21/11/2022 -- 17:56]  restarted!
+[21/11/2022 -- 17:56]  restarted!
+[21/11/2022 -- 17:56]  restarted!
+[21/11/2022 -- 17:56]  restarted!
+[21/11/2022 -- 17:56]  restarted!
+[21/11/2022 -- 17:56]  restarted!
+[21/11/2022 -- 17:56]  restarted!
+[21/11/2022 -- 17:57]  restarted!
+[21/11/2022 -- 17:57]  restarted!
+[21/11/2022 -- 17:58]  restarted!
+[21/11/2022 -- 17:58]  restarted!
+[21/11/2022 -- 17:58]  restarted!
+[21/11/2022 -- 17:58]  restarted!
+[21/11/2022 -- 17:58]  restarted!
+[21/11/2022 -- 17:58]  restarted!
+[21/11/2022 -- 17:58]  restarted!
+[21/11/2022 -- 17:58]  restarted!
+[21/11/2022 -- 17:59]  restarted!
+[21/11/2022 -- 17:59]  restarted!
+[21/11/2022 -- 17:59]  restarted!
+[21/11/2022 -- 17:59]  restarted!
+[21/11/2022 -- 17:59]  restarted!
+[21/11/2022 -- 17:59]  restarted!
+[21/11/2022 -- 17:59]  restarted!
+[21/11/2022 -- 17:59]  restarted!
+[21/11/2022 -- 17:59]  restarted!
+[21/11/2022 -- 17:59]  restarted!
+[21/11/2022 -- 18:0]  restarted!
+[21/11/2022 -- 18:0]  restarted!
+[21/11/2022 -- 18:0]  restarted!
+[21/11/2022 -- 18:0]  restarted!
+[21/11/2022 -- 18:0]  restarted!
+[21/11/2022 -- 18:0]  restarted!
+[21/11/2022 -- 18:0]  restarted!
+[21/11/2022 -- 18:0]  restarted!
+[21/11/2022 -- 18:0]  restarted!
+[21/11/2022 -- 18:1]  restarted!
+[21/11/2022 -- 18:1]  restarted!
+[21/11/2022 -- 18:1]  restarted!
+[21/11/2022 -- 18:1]  restarted!
+[21/11/2022 -- 18:1]  restarted!
+[21/11/2022 -- 18:1]  restarted!
+[21/11/2022 -- 18:1]  restarted!
+[21/11/2022 -- 18:1]  restarted!
+[21/11/2022 -- 18:1]  restarted!
+[21/11/2022 -- 18:1]  restarted!
+[21/11/2022 -- 18:1]  restarted!
+[21/11/2022 -- 18:1]  restarted!
+[21/11/2022 -- 18:1]  restarted!
+[21/11/2022 -- 18:1]  restarted!
+[21/11/2022 -- 18:1]  restarted!
+[21/11/2022 -- 18:1]  restarted!
+[21/11/2022 -- 18:1]  restarted!
+[21/11/2022 -- 18:1]  restarted!
+[21/11/2022 -- 18:1]  restarted!
+[21/11/2022 -- 18:1]  restarted!
+[21/11/2022 -- 18:2]  Scripts ran on main.js
+[21/11/2022 -- 18:2]  restarted!
+[21/11/2022 -- 18:2]  restarted!
+[21/11/2022 -- 18:2]  restarted!
+[21/11/2022 -- 18:2]  restarted!
+[21/11/2022 -- 18:2]  restarted!
+[21/11/2022 -- 18:2]  restarted!
+[21/11/2022 -- 18:2]  restarted!
+[21/11/2022 -- 18:2]  restarted!
+[21/11/2022 -- 18:2]  restarted!
+[21/11/2022 -- 18:3]  restarted!
+[21/11/2022 -- 18:3]  restarted!
+[21/11/2022 -- 18:3]  restarted!
+[21/11/2022 -- 18:3]  restarted!
+[21/11/2022 -- 18:3]  restarted!
+[21/11/2022 -- 18:3]  restarted!
+[21/11/2022 -- 18:3]  restarted!
+[21/11/2022 -- 18:3]  restarted!
+[21/11/2022 -- 18:3]  restarted!
+[21/11/2022 -- 18:3]  restarted!
+[21/11/2022 -- 18:3]  restarted!
+[21/11/2022 -- 18:4]  restarted!
+[21/11/2022 -- 18:4]  restarted!
+[21/11/2022 -- 18:4]  restarted!
+[21/11/2022 -- 18:4]  restarted!
+[21/11/2022 -- 18:4]  restarted!
+[21/11/2022 -- 18:4]  restarted!
+[21/11/2022 -- 18:4]  restarted!
+[21/11/2022 -- 18:4]  restarted!
+[21/11/2022 -- 18:5]  restarted!
+[21/11/2022 -- 18:5]  restarted!
+[21/11/2022 -- 18:5]  restarted!
+[21/11/2022 -- 18:5]  restarted!
+[21/11/2022 -- 18:5]  restarted!
+[21/11/2022 -- 18:5]  restarted!
+[21/11/2022 -- 18:5]  restarted!
+[21/11/2022 -- 18:5]  restarted!
+[21/11/2022 -- 18:5]  restarted!
+[21/11/2022 -- 18:6]  restarted!
+[21/11/2022 -- 18:6]  restarted!
+[21/11/2022 -- 18:6]  restarted!
+[21/11/2022 -- 18:6]  restarted!
+[21/11/2022 -- 18:6]  restarted!
+[21/11/2022 -- 18:6]  restarted!
+[21/11/2022 -- 18:6]  restarted!
+[21/11/2022 -- 18:6]  restarted!
+[21/11/2022 -- 18:7]  restarted!
+[21/11/2022 -- 18:7]  restarted!
+[21/11/2022 -- 18:7]  restarted!
+[21/11/2022 -- 18:7]  restarted!
+[21/11/2022 -- 18:7]  restarted!
+[21/11/2022 -- 18:7]  restarted!
+[21/11/2022 -- 18:7]  restarted!
+[21/11/2022 -- 18:7]  restarted!
+[21/11/2022 -- 18:7]  restarted!
+[21/11/2022 -- 18:7]  restarted!
+[21/11/2022 -- 18:8]  restarted!
+[21/11/2022 -- 18:8]  restarted!
+[21/11/2022 -- 18:8]  restarted!
+[21/11/2022 -- 18:8]  restarted!
+[21/11/2022 -- 18:8]  restarted!
+[21/11/2022 -- 18:8]  restarted!
+[21/11/2022 -- 18:8]  restarted!
+[21/11/2022 -- 18:8]  restarted!
+[21/11/2022 -- 18:8]  restarted!
+[21/11/2022 -- 18:9]  restarted!
+[21/11/2022 -- 18:9]  restarted!
+[21/11/2022 -- 18:9]  restarted!
+[21/11/2022 -- 18:9]  restarted!
+[21/11/2022 -- 18:9]  restarted!
+[21/11/2022 -- 18:9]  restarted!
+[21/11/2022 -- 18:9]  restarted!
+[21/11/2022 -- 18:9]  restarted!
+[21/11/2022 -- 18:9]  restarted!
+[21/11/2022 -- 18:9]  restarted!
+[21/11/2022 -- 18:9]  restarted!
+[21/11/2022 -- 18:11]  restarted!
+[21/11/2022 -- 18:12]  restarted!
+[21/11/2022 -- 18:12]  restarted!
+[21/11/2022 -- 18:12]  restarted!
+[21/11/2022 -- 18:12]  restarted!
+[21/11/2022 -- 18:12]  restarted!
+[21/11/2022 -- 18:12]  restarted!
+[21/11/2022 -- 18:12]  restarted!
+[21/11/2022 -- 18:13]  restarted!
+[21/11/2022 -- 18:16]  Scripts ran on main.js
+[21/11/2022 -- 18:16]  Scripts ran on main.js
+[21/11/2022 -- 18:17]  restarted!
+[21/11/2022 -- 18:17]  restarted!
+[21/11/2022 -- 18:18]  restarted!
+[21/11/2022 -- 18:19]  restarted!
+[21/11/2022 -- 18:20]  restarted!
+[21/11/2022 -- 18:20]  restarted!
+[21/11/2022 -- 18:20]  restarted!
+[21/11/2022 -- 18:20]  restarted!
+[21/11/2022 -- 18:20]  restarted!
+[21/11/2022 -- 18:20]  restarted!
+[21/11/2022 -- 18:21]  restarted!
+[21/11/2022 -- 18:21]  restarted!
+[21/11/2022 -- 18:21]  restarted!
+[21/11/2022 -- 18:21]  restarted!
+[21/11/2022 -- 18:21]  restarted!
+[21/11/2022 -- 18:21]  restarted!
+[21/11/2022 -- 18:21]  restarted!
+[21/11/2022 -- 18:21]  restarted!
+[21/11/2022 -- 18:21]  restarted!
+[21/11/2022 -- 18:21]  restarted!
+[21/11/2022 -- 18:21]  restarted!
+[21/11/2022 -- 18:21]  restarted!
+[21/11/2022 -- 18:21]  restarted!
+[21/11/2022 -- 18:21]  restarted!
+[21/11/2022 -- 18:21]  restarted!
+[21/11/2022 -- 18:21]  restarted!
+[21/11/2022 -- 18:21]  restarted!
+[21/11/2022 -- 18:22]  restarted!
+[21/11/2022 -- 18:22]  restarted!
+[21/11/2022 -- 18:22]  restarted!
+[21/11/2022 -- 18:22]  restarted!
+[21/11/2022 -- 18:22]  restarted!
+[21/11/2022 -- 18:22]  Scripts ran on main.js
+[21/11/2022 -- 18:22]  Scripts ran on main.js
+[21/11/2022 -- 18:22]  Scripts ran on main.js
+[21/11/2022 -- 18:22]  Scripts ran on main.js
+[21/11/2022 -- 18:22]  Scripts ran on main.js
+[21/11/2022 -- 18:22]  Scripts ran on main.js
+[21/11/2022 -- 18:22]  Scripts ran on main.js
+[21/11/2022 -- 18:23]  Scripts ran on main.js
+[21/11/2022 -- 18:23]  Scripts ran on main.js
+[21/11/2022 -- 18:23]  restarted!
+[21/11/2022 -- 18:23]  restarted!
+[21/11/2022 -- 18:23]  restarted!
+[21/11/2022 -- 18:23]  restarted!
+[21/11/2022 -- 18:23]  restarted!
+[21/11/2022 -- 18:23]  Scripts ran on main.js
+[21/11/2022 -- 18:23]  Scripts ran on main.js
+[21/11/2022 -- 18:23]  restarted!
+[21/11/2022 -- 18:23]  restarted!
+[21/11/2022 -- 18:24]  restarted!
+[21/11/2022 -- 18:24]  restarted!
+[21/11/2022 -- 18:24]  restarted!
+[21/11/2022 -- 18:24]  restarted!
+[21/11/2022 -- 18:24]  restarted!
+[21/11/2022 -- 18:24]  restarted!
+[21/11/2022 -- 18:24]  restarted!
+[21/11/2022 -- 18:24]  restarted!
+[21/11/2022 -- 18:24]  restarted!
+[21/11/2022 -- 18:24]  restarted!
+[21/11/2022 -- 18:25]  restarted!
+[21/11/2022 -- 18:25]  restarted!
+[21/11/2022 -- 18:25]  restarted!
+[21/11/2022 -- 18:25]  restarted!
+[21/11/2022 -- 18:25]  restarted!
+[21/11/2022 -- 18:25]  restarted!
+[21/11/2022 -- 18:25]  restarted!
+[21/11/2022 -- 18:25]  restarted!
+[21/11/2022 -- 18:25]  restarted!
+[21/11/2022 -- 18:25]  restarted!
+[21/11/2022 -- 18:26]  restarted!
+[21/11/2022 -- 18:26]  restarted!
+[21/11/2022 -- 18:26]  restarted!
+[21/11/2022 -- 18:26]  restarted!
+[21/11/2022 -- 18:26]  restarted!
+[21/11/2022 -- 18:26]  restarted!
+[21/11/2022 -- 18:26]  restarted!
+[21/11/2022 -- 18:26]  restarted!
+[21/11/2022 -- 18:27]  Scripts ran on main.js
+[21/11/2022 -- 18:27]  Scripts ran on main.js
+[21/11/2022 -- 18:27]  restarted!
+[21/11/2022 -- 18:27]  restarted!
+[21/11/2022 -- 18:27]  restarted!
+[21/11/2022 -- 18:27]  restarted!
+[21/11/2022 -- 18:27]  restarted!
+[21/11/2022 -- 18:27]  restarted!
+[21/11/2022 -- 18:27]  restarted!
+[21/11/2022 -- 18:27]  restarted!
+[21/11/2022 -- 18:27]  restarted!
+[21/11/2022 -- 18:28]  restarted!
+[21/11/2022 -- 18:28]  restarted!
+[21/11/2022 -- 18:28]  restarted!
+[21/11/2022 -- 18:28]  restarted!
+[21/11/2022 -- 18:28]  restarted!
+[21/11/2022 -- 18:29]  restarted!
+[21/11/2022 -- 18:29]  restarted!
+[21/11/2022 -- 18:29]  restarted!
+[21/11/2022 -- 18:29]  restarted!
+[21/11/2022 -- 18:29]  restarted!
+[21/11/2022 -- 18:29]  restarted!
+[21/11/2022 -- 18:29]  restarted!
+[21/11/2022 -- 18:29]  Scripts ran on main.js
+[21/11/2022 -- 18:29]  Scripts ran on main.js
+[21/11/2022 -- 18:29]  restarted!
+[21/11/2022 -- 18:29]  restarted!
+[21/11/2022 -- 18:29]  restarted!
+[21/11/2022 -- 18:29]  restarted!
+[21/11/2022 -- 18:29]  restarted!
+[21/11/2022 -- 18:29]  restarted!
+[21/11/2022 -- 18:29]  restarted!
+[21/11/2022 -- 18:29]  restarted!
+[21/11/2022 -- 18:29]  restarted!
+[21/11/2022 -- 18:29]  restarted!
+[21/11/2022 -- 18:29]  restarted!
+[21/11/2022 -- 18:29]  restarted!
+[21/11/2022 -- 18:29]  restarted!
+[21/11/2022 -- 18:29]  restarted!
+[21/11/2022 -- 18:30]  restarted!
+[21/11/2022 -- 18:30]  restarted!
+[21/11/2022 -- 18:30]  restarted!
+[21/11/2022 -- 18:30]  restarted!
+[21/11/2022 -- 18:30]  restarted!
+[21/11/2022 -- 18:30]  restarted!
+[21/11/2022 -- 18:31]  restarted!
+[21/11/2022 -- 18:31]  restarted!
+[21/11/2022 -- 18:31]  restarted!
+[21/11/2022 -- 18:31]  restarted!
+[21/11/2022 -- 18:31]  restarted!
+[21/11/2022 -- 18:31]  restarted!
+[21/11/2022 -- 18:31]  restarted!
+[21/11/2022 -- 18:31]  Scripts ran on main.js
+[21/11/2022 -- 18:31]  Scripts ran on main.js
+[21/11/2022 -- 18:31]  restarted!
+[21/11/2022 -- 18:31]  restarted!
+[21/11/2022 -- 18:31]  restarted!
+[21/11/2022 -- 18:31]  restarted!
+[21/11/2022 -- 18:31]  restarted!
+[21/11/2022 -- 18:32]  restarted!
+[21/11/2022 -- 18:32]  restarted!
+[21/11/2022 -- 18:32]  restarted!
+[21/11/2022 -- 18:32]  restarted!
+[21/11/2022 -- 18:32]  restarted!
+[21/11/2022 -- 18:33]  Info task started
+[21/11/2022 -- 18:33]  restarted!
+[21/11/2022 -- 18:33]  Mustache Templates ran on the HTML files
+[21/11/2022 -- 18:33]  Scripts ran on main.js
+[21/11/2022 -- 18:33]  Sass ran on files
+[21/11/2022 -- 18:33]  restarted!
+[21/11/2022 -- 18:33]  restarted!
+[21/11/2022 -- 18:33]  restarted!
+[21/11/2022 -- 18:34]  restarted!
+[21/11/2022 -- 18:34]  restarted!
+[21/11/2022 -- 18:34]  restarted!
+[21/11/2022 -- 18:34]  restarted!
+[21/11/2022 -- 18:34]  restarted!
+[21/11/2022 -- 18:34]  restarted!
+[21/11/2022 -- 18:34]  restarted!
+[21/11/2022 -- 18:34]  restarted!
+[21/11/2022 -- 18:34]  restarted!
+[21/11/2022 -- 18:34]  restarted!
+[21/11/2022 -- 18:34]  restarted!
+[21/11/2022 -- 18:34]  restarted!
+[21/11/2022 -- 18:35]  restarted!
+[21/11/2022 -- 18:35]  restarted!
+[21/11/2022 -- 18:35]  restarted!
+[21/11/2022 -- 18:35]  restarted!
+[21/11/2022 -- 18:35]  restarted!
+[21/11/2022 -- 18:35]  Scripts ran on main.js
+[21/11/2022 -- 18:35]  Scripts ran on main.js
+[21/11/2022 -- 18:35]  Scripts ran on main.js
+[21/11/2022 -- 18:35]  restarted!
+[21/11/2022 -- 18:35]  restarted!
+[21/11/2022 -- 18:35]  restarted!
+[21/11/2022 -- 18:35]  restarted!
+[21/11/2022 -- 18:36]  restarted!
+[21/11/2022 -- 18:36]  restarted!
+[21/11/2022 -- 18:36]  restarted!
+[21/11/2022 -- 18:36]  restarted!
+[21/11/2022 -- 18:36]  restarted!
+[21/11/2022 -- 18:36]  restarted!
+[21/11/2022 -- 18:36]  restarted!
+[21/11/2022 -- 18:36]  restarted!
+[21/11/2022 -- 18:36]  restarted!
+[21/11/2022 -- 18:37]  restarted!
+[21/11/2022 -- 18:37]  restarted!
+[21/11/2022 -- 18:37]  restarted!
+[21/11/2022 -- 18:37]  restarted!
+[21/11/2022 -- 18:37]  restarted!
+[21/11/2022 -- 18:37]  restarted!
+[21/11/2022 -- 18:37]  restarted!
+[21/11/2022 -- 18:38]  restarted!
+[21/11/2022 -- 18:38]  restarted!
+[21/11/2022 -- 18:38]  restarted!
+[21/11/2022 -- 18:38]  restarted!
+[21/11/2022 -- 18:38]  restarted!
+[21/11/2022 -- 18:38]  restarted!
+[21/11/2022 -- 18:38]  restarted!
+[21/11/2022 -- 18:38]  restarted!
+[21/11/2022 -- 18:38]  restarted!
+[21/11/2022 -- 18:38]  restarted!
+[21/11/2022 -- 18:38]  restarted!
+[21/11/2022 -- 18:39]  restarted!
+[21/11/2022 -- 18:39]  restarted!
+[21/11/2022 -- 18:39]  Scripts ran on main.js
+[21/11/2022 -- 18:39]  Scripts ran on main.js
+[21/11/2022 -- 18:39]  Scripts ran on main.js
+[21/11/2022 -- 18:39]  restarted!
+[21/11/2022 -- 18:39]  restarted!
+[21/11/2022 -- 18:39]  restarted!
+[21/11/2022 -- 18:39]  restarted!
+[21/11/2022 -- 18:39]  Scripts ran on main.js
+[21/11/2022 -- 18:39]  Scripts ran on main.js
+[21/11/2022 -- 18:40]  restarted!
+[21/11/2022 -- 18:40]  restarted!
+[21/11/2022 -- 18:40]  restarted!
+[21/11/2022 -- 18:40]  Scripts ran on main.js
+[21/11/2022 -- 18:40]  Scripts ran on main.js
+[21/11/2022 -- 18:41]  restarted!
+[21/11/2022 -- 18:41]  restarted!
+[21/11/2022 -- 18:42]  restarted!
+[21/11/2022 -- 18:42]  restarted!
+[21/11/2022 -- 18:42]  restarted!
+[21/11/2022 -- 18:42]  restarted!
+[21/11/2022 -- 18:42]  restarted!
+[21/11/2022 -- 18:42]  restarted!
+[21/11/2022 -- 18:42]  restarted!
+[21/11/2022 -- 18:42]  restarted!
+[21/11/2022 -- 18:42]  restarted!
+[21/11/2022 -- 18:42]  Scripts ran on main.js
+[21/11/2022 -- 18:42]  Scripts ran on main.js
+[21/11/2022 -- 18:45]  Scripts ran on main.js
+[21/11/2022 -- 18:45]  Scripts ran on main.js
+[21/11/2022 -- 18:45]  Scripts ran on main.js
+[21/11/2022 -- 18:45]  Scripts ran on main.js
+[21/11/2022 -- 18:45]  Scripts ran on main.js
+[21/11/2022 -- 18:45]  Scripts ran on main.js
+[21/11/2022 -- 18:45]  restarted!
+[21/11/2022 -- 18:45]  restarted!
+[21/11/2022 -- 18:45]  restarted!
+[21/11/2022 -- 18:45]  restarted!
+[21/11/2022 -- 18:46]  Scripts ran on main.js
+[21/11/2022 -- 18:46]  Scripts ran on main.js
+[21/11/2022 -- 18:46]  restarted!
+[21/11/2022 -- 18:47]  restarted!
+[21/11/2022 -- 18:47]  restarted!
+[21/11/2022 -- 18:49]  Info task started
+[21/11/2022 -- 18:49]  restarted!
+[21/11/2022 -- 18:49]  restarted!
+[21/11/2022 -- 18:49]  restarted!
+[21/11/2022 -- 18:49]  restarted!
+[21/11/2022 -- 18:49]  Mustache Templates ran on the HTML files
+[21/11/2022 -- 18:49]  Scripts ran on main.js
+[21/11/2022 -- 18:49]  Sass ran on files
+[21/11/2022 -- 18:49]  restarted!
+[21/11/2022 -- 18:49]  restarted!
+[21/11/2022 -- 18:49]  restarted!
+[21/11/2022 -- 18:49]  restarted!
+[21/11/2022 -- 18:49]  restarted!
+[21/11/2022 -- 18:49]  restarted!
+[21/11/2022 -- 18:49]  restarted!
+[21/11/2022 -- 18:49]  restarted!
+[21/11/2022 -- 18:49]  restarted!
+[21/11/2022 -- 18:49]  restarted!
+[21/11/2022 -- 18:50]  restarted!
+[21/11/2022 -- 18:50]  restarted!
+[21/11/2022 -- 18:50]  restarted!
+[21/11/2022 -- 18:50]  restarted!
+[21/11/2022 -- 18:50]  restarted!
+[21/11/2022 -- 18:50]  restarted!
+[21/11/2022 -- 18:50]  restarted!
+[21/11/2022 -- 18:50]  restarted!
+[21/11/2022 -- 18:50]  restarted!
+[21/11/2022 -- 18:51]  restarted!
+[21/11/2022 -- 18:51]  restarted!
+[21/11/2022 -- 18:51]  restarted!
+[21/11/2022 -- 18:51]  Scripts ran on main.js
+[21/11/2022 -- 18:51]  Scripts ran on main.js
+[21/11/2022 -- 18:52]  restarted!
+[21/11/2022 -- 18:52]  restarted!
+[21/11/2022 -- 18:52]  restarted!
+[21/11/2022 -- 18:52]  restarted!
+[21/11/2022 -- 18:52]  restarted!
+[21/11/2022 -- 18:52]  restarted!
+[21/11/2022 -- 18:52]  restarted!
+[21/11/2022 -- 18:52]  restarted!
+[21/11/2022 -- 18:52]  restarted!
+[21/11/2022 -- 18:52]  restarted!
+[21/11/2022 -- 18:52]  restarted!
+[21/11/2022 -- 18:52]  restarted!
+[21/11/2022 -- 18:52]  restarted!
+[21/11/2022 -- 18:52]  restarted!
+[21/11/2022 -- 18:52]  restarted!
+[21/11/2022 -- 18:53]  restarted!
+[21/11/2022 -- 18:53]  restarted!
+[21/11/2022 -- 18:53]  restarted!
+[21/11/2022 -- 18:53]  restarted!
+[21/11/2022 -- 18:53]  restarted!
+[21/11/2022 -- 18:53]  restarted!
+[21/11/2022 -- 18:53]  restarted!
+[21/11/2022 -- 18:53]  restarted!
+[21/11/2022 -- 18:53]  restarted!
+[21/11/2022 -- 18:53]  restarted!
+[21/11/2022 -- 18:53]  restarted!
+[21/11/2022 -- 18:53]  restarted!
+[21/11/2022 -- 18:53]  restarted!
+[21/11/2022 -- 18:53]  restarted!
+[21/11/2022 -- 18:53]  restarted!
+[21/11/2022 -- 18:54]  restarted!
+[21/11/2022 -- 18:54]  restarted!
+[21/11/2022 -- 18:54]  restarted!
+[21/11/2022 -- 18:54]  restarted!
+[21/11/2022 -- 18:54]  Scripts ran on main.js
+[21/11/2022 -- 18:54]  Scripts ran on main.js
+[21/11/2022 -- 18:54]  Scripts ran on main.js
+[21/11/2022 -- 18:54]  Scripts ran on main.js
+[21/11/2022 -- 18:54]  restarted!
+[21/11/2022 -- 18:54]  restarted!
+[21/11/2022 -- 18:54]  restarted!
+[21/11/2022 -- 18:54]  restarted!
+[21/11/2022 -- 18:54]  restarted!
+[21/11/2022 -- 18:55]  restarted!
+[21/11/2022 -- 18:55]  restarted!
+[21/11/2022 -- 18:55]  restarted!
+[21/11/2022 -- 18:55]  restarted!
+[21/11/2022 -- 18:55]  restarted!
+[21/11/2022 -- 18:55]  restarted!
+[21/11/2022 -- 18:55]  restarted!
+[21/11/2022 -- 18:55]  restarted!
+[21/11/2022 -- 18:55]  restarted!
+[21/11/2022 -- 18:55]  restarted!
+[21/11/2022 -- 18:55]  restarted!
+[21/11/2022 -- 18:55]  restarted!
+[21/11/2022 -- 18:55]  restarted!
+[21/11/2022 -- 18:55]  restarted!
+[21/11/2022 -- 18:55]  restarted!
+[21/11/2022 -- 18:55]  restarted!
+[21/11/2022 -- 18:55]  restarted!
+[21/11/2022 -- 18:55]  restarted!
+[21/11/2022 -- 18:55]  restarted!
+[21/11/2022 -- 18:55]  restarted!
+[21/11/2022 -- 18:55]  restarted!
+[21/11/2022 -- 18:56]  restarted!
+[21/11/2022 -- 18:56]  restarted!
+[21/11/2022 -- 18:56]  restarted!
+[21/11/2022 -- 18:56]  restarted!
+[21/11/2022 -- 18:56]  restarted!
+[21/11/2022 -- 18:56]  restarted!
+[21/11/2022 -- 18:56]  restarted!
+[21/11/2022 -- 18:57]  Scripts ran on main.js
+[21/11/2022 -- 18:57]  Scripts ran on main.js
+[21/11/2022 -- 18:57]  Scripts ran on main.js
+[21/11/2022 -- 18:57]  Scripts ran on main.js
+[21/11/2022 -- 18:57]  Scripts ran on main.js
+[21/11/2022 -- 18:57]  Scripts ran on main.js
+[21/11/2022 -- 18:58]  Scripts ran on main.js
+[21/11/2022 -- 18:58]  Scripts ran on main.js
+[21/11/2022 -- 18:58]  Scripts ran on main.js
+[21/11/2022 -- 18:58]  Scripts ran on main.js
+[21/11/2022 -- 18:58]  Scripts ran on main.js
+[21/11/2022 -- 18:58]  Scripts ran on main.js
+[21/11/2022 -- 18:58]  Scripts ran on main.js
+[21/11/2022 -- 18:58]  Scripts ran on main.js
+[21/11/2022 -- 18:58]  Scripts ran on main.js
+[21/11/2022 -- 18:58]  Scripts ran on main.js
+[21/11/2022 -- 18:58]  Scripts ran on main.js
+[21/11/2022 -- 18:58]  Scripts ran on main.js
+[21/11/2022 -- 18:58]  Scripts ran on main.js
+[21/11/2022 -- 18:59]  Scripts ran on main.js
+[21/11/2022 -- 18:59]  Scripts ran on main.js
+[21/11/2022 -- 18:59]  Scripts ran on main.js
+[21/11/2022 -- 18:59]  Scripts ran on main.js
+[21/11/2022 -- 18:59]  Scripts ran on main.js
+[21/11/2022 -- 18:59]  Scripts ran on main.js
+[21/11/2022 -- 18:59]  Scripts ran on main.js
+[21/11/2022 -- 18:59]  Scripts ran on main.js
+[21/11/2022 -- 18:59]  Scripts ran on main.js
+[21/11/2022 -- 18:59]  Scripts ran on main.js
+[21/11/2022 -- 18:59]  Scripts ran on main.js
+[21/11/2022 -- 18:59]  Scripts ran on main.js
+[21/11/2022 -- 18:59]  Scripts ran on main.js
+[21/11/2022 -- 18:59]  Scripts ran on main.js
+[21/11/2022 -- 19:0]  Scripts ran on main.js
+[21/11/2022 -- 19:0]  Scripts ran on main.js
+[21/11/2022 -- 19:0]  Scripts ran on main.js
+[21/11/2022 -- 19:0]  Scripts ran on main.js
+[21/11/2022 -- 19:0]  Scripts ran on main.js
+[21/11/2022 -- 19:0]  Scripts ran on main.js
+[21/11/2022 -- 19:0]  Scripts ran on main.js
+[21/11/2022 -- 19:1]  Scripts ran on main.js
+[21/11/2022 -- 19:1]  Scripts ran on main.js
+[21/11/2022 -- 19:1]  Scripts ran on main.js
+[21/11/2022 -- 19:1]  Scripts ran on main.js
+[21/11/2022 -- 19:1]  Scripts ran on main.js
+[21/11/2022 -- 19:2]  Scripts ran on main.js
+[21/11/2022 -- 19:2]  Scripts ran on main.js
+[21/11/2022 -- 19:2]  Scripts ran on main.js
+[21/11/2022 -- 19:2]  Scripts ran on main.js
+[21/11/2022 -- 19:3]  Scripts ran on main.js
+[21/11/2022 -- 19:3]  Scripts ran on main.js
+[21/11/2022 -- 19:3]  Scripts ran on main.js
+[21/11/2022 -- 19:3]  Scripts ran on main.js
+[21/11/2022 -- 19:3]  Scripts ran on main.js
+[21/11/2022 -- 19:3]  Scripts ran on main.js
+[21/11/2022 -- 19:3]  Scripts ran on main.js
+[21/11/2022 -- 19:3]  Scripts ran on main.js
+[21/11/2022 -- 19:3]  Scripts ran on main.js
+[21/11/2022 -- 19:4]  Scripts ran on main.js
+[21/11/2022 -- 19:4]  Scripts ran on main.js
+[21/11/2022 -- 19:4]  Scripts ran on main.js
+[21/11/2022 -- 19:4]  Scripts ran on main.js
+[21/11/2022 -- 19:4]  Scripts ran on main.js
+[21/11/2022 -- 19:4]  Scripts ran on main.js
+[21/11/2022 -- 19:5]  Scripts ran on main.js
+[21/11/2022 -- 19:5]  Scripts ran on main.js
+[21/11/2022 -- 19:5]  Scripts ran on main.js
+[21/11/2022 -- 19:5]  Scripts ran on main.js
+[21/11/2022 -- 19:5]  Scripts ran on main.js
+[21/11/2022 -- 19:5]  Scripts ran on main.js
+[21/11/2022 -- 19:5]  Scripts ran on main.js
+[21/11/2022 -- 19:5]  Scripts ran on main.js
+[21/11/2022 -- 19:5]  Scripts ran on main.js
+[21/11/2022 -- 19:5]  Scripts ran on main.js
+[21/11/2022 -- 19:5]  Scripts ran on main.js
+[21/11/2022 -- 19:5]  Scripts ran on main.js
+[21/11/2022 -- 19:5]  Scripts ran on main.js
+[21/11/2022 -- 19:6]  Scripts ran on main.js
+[21/11/2022 -- 19:7]  Scripts ran on main.js
+[21/11/2022 -- 19:8]  Scripts ran on main.js
+[21/11/2022 -- 19:8]  Scripts ran on main.js
+[21/11/2022 -- 19:8]  Scripts ran on main.js
+[21/11/2022 -- 19:8]  Scripts ran on main.js
+[21/11/2022 -- 19:9]  Scripts ran on main.js
+[21/11/2022 -- 19:9]  Scripts ran on main.js
+[21/11/2022 -- 19:9]  Scripts ran on main.js
+[21/11/2022 -- 19:10]  Scripts ran on main.js
+[21/11/2022 -- 19:10]  Scripts ran on main.js
+[21/11/2022 -- 19:11]  Scripts ran on main.js
+[21/11/2022 -- 19:11]  Scripts ran on main.js
+[21/11/2022 -- 19:12]  Scripts ran on main.js
+[21/11/2022 -- 19:12]  Scripts ran on main.js
+[21/11/2022 -- 19:13]  Scripts ran on main.js
+[21/11/2022 -- 19:13]  Scripts ran on main.js
+[21/11/2022 -- 19:13]  Scripts ran on main.js
+[21/11/2022 -- 19:13]  Scripts ran on main.js
+[21/11/2022 -- 19:13]  Scripts ran on main.js
+[21/11/2022 -- 19:13]  Scripts ran on main.js
+[21/11/2022 -- 19:13]  Scripts ran on main.js
+[21/11/2022 -- 19:13]  Scripts ran on main.js
+[21/11/2022 -- 19:13]  Scripts ran on main.js
+[21/11/2022 -- 19:14]  Scripts ran on main.js
+[21/11/2022 -- 19:14]  Scripts ran on main.js
+[21/11/2022 -- 19:14]  Scripts ran on main.js
+[21/11/2022 -- 19:14]  Scripts ran on main.js
+[21/11/2022 -- 19:14]  Scripts ran on main.js
+[21/11/2022 -- 19:14]  Scripts ran on main.js
+[21/11/2022 -- 19:14]  Scripts ran on main.js
+[21/11/2022 -- 19:14]  Scripts ran on main.js
+[21/11/2022 -- 19:14]  Scripts ran on main.js
+[21/11/2022 -- 19:14]  Scripts ran on main.js
+[21/11/2022 -- 19:15]  Scripts ran on main.js
+[21/11/2022 -- 19:15]  Scripts ran on main.js
+[21/11/2022 -- 19:15]  Scripts ran on main.js
+[21/11/2022 -- 19:15]  Scripts ran on main.js
+[21/11/2022 -- 19:15]  Scripts ran on main.js
+[21/11/2022 -- 19:15]  Scripts ran on main.js
+[21/11/2022 -- 19:15]  Scripts ran on main.js
+[21/11/2022 -- 19:16]  Scripts ran on main.js
+[21/11/2022 -- 19:16]  Scripts ran on main.js
+[21/11/2022 -- 19:16]  Scripts ran on main.js
+[21/11/2022 -- 19:16]  Scripts ran on main.js
+[21/11/2022 -- 19:16]  Scripts ran on main.js
+[21/11/2022 -- 19:17]  Scripts ran on main.js
+[21/11/2022 -- 19:17]  Scripts ran on main.js
+[21/11/2022 -- 19:17]  Scripts ran on main.js
+[21/11/2022 -- 19:17]  Scripts ran on main.js
+[21/11/2022 -- 19:17]  Scripts ran on main.js
+[21/11/2022 -- 19:17]  Scripts ran on main.js
+[21/11/2022 -- 19:17]  Scripts ran on main.js
+[21/11/2022 -- 19:17]  Scripts ran on main.js
+[21/11/2022 -- 19:18]  Scripts ran on main.js
+[21/11/2022 -- 19:18]  Scripts ran on main.js
+[21/11/2022 -- 19:18]  Scripts ran on main.js
+[21/11/2022 -- 19:18]  Scripts ran on main.js
+[21/11/2022 -- 19:18]  Scripts ran on main.js
+[21/11/2022 -- 19:18]  Scripts ran on main.js
+[21/11/2022 -- 19:18]  Scripts ran on main.js
+[21/11/2022 -- 19:19]  Scripts ran on main.js
+[21/11/2022 -- 19:19]  Scripts ran on main.js
+[21/11/2022 -- 19:19]  Scripts ran on main.js
+[21/11/2022 -- 19:19]  Scripts ran on main.js
+[21/11/2022 -- 19:19]  Scripts ran on main.js
+[21/11/2022 -- 19:19]  Scripts ran on main.js
+[21/11/2022 -- 19:19]  Scripts ran on main.js
+[21/11/2022 -- 19:19]  Scripts ran on main.js
+[21/11/2022 -- 19:19]  Scripts ran on main.js
+[21/11/2022 -- 19:20]  Scripts ran on main.js
+[21/11/2022 -- 19:20]  Scripts ran on main.js
+[21/11/2022 -- 19:20]  Scripts ran on main.js
+[21/11/2022 -- 19:20]  Scripts ran on main.js
+[21/11/2022 -- 19:20]  Scripts ran on main.js
+[21/11/2022 -- 19:20]  Scripts ran on main.js
+[21/11/2022 -- 19:21]  Scripts ran on main.js
+[21/11/2022 -- 19:21]  Scripts ran on main.js
+[21/11/2022 -- 19:21]  Scripts ran on main.js
+[21/11/2022 -- 19:21]  Scripts ran on main.js
+[21/11/2022 -- 19:21]  Scripts ran on main.js
+[21/11/2022 -- 19:21]  Scripts ran on main.js
+[21/11/2022 -- 19:21]  Scripts ran on main.js
+[21/11/2022 -- 19:22]  Scripts ran on main.js
+[21/11/2022 -- 19:22]  Scripts ran on main.js
+[21/11/2022 -- 19:22]  Scripts ran on main.js
+[21/11/2022 -- 19:22]  Scripts ran on main.js
+[21/11/2022 -- 19:22]  Scripts ran on main.js
+[21/11/2022 -- 19:22]  Scripts ran on main.js
+[21/11/2022 -- 19:23]  Scripts ran on main.js
+[21/11/2022 -- 19:23]  Scripts ran on main.js
+[21/11/2022 -- 19:23]  Scripts ran on main.js
+[21/11/2022 -- 19:23]  Scripts ran on main.js
+[21/11/2022 -- 19:23]  Scripts ran on main.js
+[21/11/2022 -- 19:24]  Scripts ran on main.js
+[21/11/2022 -- 19:25]  Scripts ran on main.js
+[21/11/2022 -- 19:25]  Scripts ran on main.js
+[21/11/2022 -- 19:26]  Scripts ran on main.js
+[21/11/2022 -- 19:26]  Scripts ran on main.js
+[21/11/2022 -- 19:26]  Scripts ran on main.js
+[21/11/2022 -- 19:26]  Scripts ran on main.js
+[21/11/2022 -- 19:27]  Scripts ran on main.js
+[21/11/2022 -- 19:27]  Scripts ran on main.js
+[21/11/2022 -- 19:27]  Scripts ran on main.js
+[21/11/2022 -- 19:27]  Scripts ran on main.js
+[21/11/2022 -- 19:28]  Scripts ran on main.js
+[21/11/2022 -- 19:28]  Scripts ran on main.js
+[21/11/2022 -- 19:28]  Scripts ran on main.js
+[21/11/2022 -- 19:28]  Scripts ran on main.js
+[21/11/2022 -- 19:28]  Scripts ran on main.js
+[21/11/2022 -- 19:28]  Scripts ran on main.js
+[21/11/2022 -- 19:28]  Scripts ran on main.js
+[21/11/2022 -- 19:28]  Scripts ran on main.js
+[21/11/2022 -- 19:28]  Scripts ran on main.js
+[21/11/2022 -- 19:28]  Scripts ran on main.js
+[21/11/2022 -- 19:29]  Scripts ran on main.js
+[21/11/2022 -- 19:29]  Scripts ran on main.js
+[21/11/2022 -- 19:32]  Scripts ran on main.js
+[21/11/2022 -- 19:32]  Scripts ran on main.js
+[21/11/2022 -- 19:33]  Scripts ran on main.js
+[21/11/2022 -- 19:33]  Scripts ran on main.js
+[21/11/2022 -- 19:34]  Scripts ran on main.js
+[21/11/2022 -- 19:36]  Scripts ran on main.js
+[21/11/2022 -- 19:37]  Scripts ran on main.js
+[21/11/2022 -- 19:38]  Scripts ran on main.js
+[21/11/2022 -- 19:39]  Scripts ran on main.js
+[21/11/2022 -- 19:39]  Scripts ran on main.js
+[21/11/2022 -- 19:40]  Scripts ran on main.js
+[21/11/2022 -- 19:40]  Scripts ran on main.js
+[21/11/2022 -- 19:41]  Scripts ran on main.js
+[21/11/2022 -- 19:41]  Scripts ran on main.js
+[21/11/2022 -- 19:41]  Scripts ran on main.js
+[21/11/2022 -- 19:41]  Scripts ran on main.js
+[21/11/2022 -- 19:41]  Scripts ran on main.js
+[21/11/2022 -- 19:42]  Scripts ran on main.js
+[21/11/2022 -- 19:42]  Scripts ran on main.js
+[21/11/2022 -- 19:42]  Scripts ran on main.js
+[21/11/2022 -- 19:42]  Scripts ran on main.js
+[21/11/2022 -- 19:42]  Scripts ran on main.js
+[21/11/2022 -- 19:42]  Scripts ran on main.js
+[21/11/2022 -- 19:42]  Scripts ran on main.js
+[21/11/2022 -- 19:42]  Scripts ran on main.js
+[21/11/2022 -- 19:43]  Scripts ran on main.js
+[21/11/2022 -- 19:43]  Scripts ran on main.js
+[21/11/2022 -- 19:43]  Scripts ran on main.js
+[21/11/2022 -- 19:43]  Scripts ran on main.js
+[21/11/2022 -- 19:43]  Scripts ran on main.js
+[21/11/2022 -- 19:43]  Scripts ran on main.js
+[21/11/2022 -- 19:43]  Scripts ran on main.js
+[21/11/2022 -- 19:45]  Scripts ran on main.js
+[21/11/2022 -- 19:45]  Scripts ran on main.js
+[21/11/2022 -- 19:45]  Scripts ran on main.js
+[21/11/2022 -- 19:45]  Scripts ran on main.js
+[21/11/2022 -- 19:46]  Scripts ran on main.js
+[21/11/2022 -- 19:46]  Scripts ran on main.js
+[21/11/2022 -- 19:47]  Scripts ran on main.js
+[21/11/2022 -- 19:47]  Scripts ran on main.js
+[21/11/2022 -- 19:47]  Scripts ran on main.js
+[21/11/2022 -- 19:48]  Scripts ran on main.js
+[21/11/2022 -- 19:48]  Scripts ran on main.js
+[21/11/2022 -- 19:48]  Scripts ran on main.js
+[21/11/2022 -- 19:48]  Scripts ran on main.js
+[21/11/2022 -- 19:51]  Scripts ran on main.js
+[21/11/2022 -- 19:51]  Scripts ran on main.js
+[21/11/2022 -- 19:51]  Scripts ran on main.js
+[21/11/2022 -- 19:51]  Scripts ran on main.js
+[21/11/2022 -- 19:51]  Scripts ran on main.js
+[21/11/2022 -- 19:51]  Scripts ran on main.js
+[21/11/2022 -- 19:51]  Scripts ran on main.js
+[21/11/2022 -- 19:52]  Scripts ran on main.js
+[21/11/2022 -- 19:52]  Scripts ran on main.js
+[21/11/2022 -- 19:52]  Scripts ran on main.js
+[21/11/2022 -- 19:52]  Scripts ran on main.js
+[21/11/2022 -- 19:52]  Scripts ran on main.js
+[21/11/2022 -- 19:52]  Scripts ran on main.js
+[21/11/2022 -- 19:52]  Scripts ran on main.js
+[21/11/2022 -- 19:52]  Scripts ran on main.js
+[21/11/2022 -- 19:53]  Scripts ran on main.js
+[21/11/2022 -- 19:53]  Scripts ran on main.js
+[21/11/2022 -- 19:53]  Scripts ran on main.js
+[21/11/2022 -- 19:53]  Scripts ran on main.js
+[21/11/2022 -- 19:53]  Scripts ran on main.js
+[21/11/2022 -- 19:53]  Scripts ran on main.js
+[21/11/2022 -- 19:53]  Scripts ran on main.js
+[21/11/2022 -- 19:53]  Scripts ran on main.js
+[21/11/2022 -- 19:53]  Scripts ran on main.js
+[21/11/2022 -- 19:54]  Scripts ran on main.js
+[21/11/2022 -- 19:54]  Scripts ran on main.js
+[21/11/2022 -- 19:54]  Scripts ran on main.js
+[21/11/2022 -- 19:54]  Scripts ran on main.js
+[21/11/2022 -- 19:54]  Scripts ran on main.js
+[21/11/2022 -- 19:54]  Scripts ran on main.js
+[21/11/2022 -- 19:55]  Scripts ran on main.js
+[21/11/2022 -- 19:56]  Scripts ran on main.js
+[21/11/2022 -- 19:57]  Scripts ran on main.js
+[21/11/2022 -- 19:57]  Scripts ran on main.js
+[21/11/2022 -- 19:58]  Scripts ran on main.js
+[21/11/2022 -- 19:59]  Scripts ran on main.js
+[21/11/2022 -- 19:59]  Scripts ran on main.js
+[21/11/2022 -- 20:0]  Scripts ran on main.js
+[21/11/2022 -- 20:0]  Scripts ran on main.js
+[21/11/2022 -- 20:1]  Scripts ran on main.js
+[21/11/2022 -- 20:1]  Scripts ran on main.js
+[21/11/2022 -- 20:1]  Scripts ran on main.js
+[21/11/2022 -- 20:1]  Scripts ran on main.js
+[21/11/2022 -- 20:1]  Scripts ran on main.js
+[21/11/2022 -- 20:1]  Scripts ran on main.js
+[21/11/2022 -- 20:1]  Scripts ran on main.js
+[21/11/2022 -- 20:2]  Scripts ran on main.js
+[21/11/2022 -- 20:2]  Scripts ran on main.js
+[21/11/2022 -- 20:2]  Scripts ran on main.js
+[21/11/2022 -- 20:2]  Scripts ran on main.js
+[21/11/2022 -- 20:2]  Scripts ran on main.js
+[21/11/2022 -- 20:2]  Scripts ran on main.js
+[21/11/2022 -- 20:3]  Scripts ran on main.js
+[21/11/2022 -- 20:3]  Scripts ran on main.js
+[21/11/2022 -- 20:3]  Scripts ran on main.js
+[21/11/2022 -- 20:3]  Scripts ran on main.js
+[21/11/2022 -- 20:3]  Scripts ran on main.js
+[21/11/2022 -- 20:3]  Scripts ran on main.js
+[21/11/2022 -- 20:4]  Scripts ran on main.js
+[21/11/2022 -- 20:4]  Scripts ran on main.js
+[21/11/2022 -- 20:4]  Scripts ran on main.js
+[21/11/2022 -- 20:4]  Scripts ran on main.js
+[21/11/2022 -- 20:4]  Scripts ran on main.js
+[21/11/2022 -- 20:5]  Scripts ran on main.js
+[21/11/2022 -- 20:5]  Scripts ran on main.js
+[21/11/2022 -- 20:5]  Scripts ran on main.js
+[21/11/2022 -- 20:5]  Scripts ran on main.js
+[21/11/2022 -- 20:5]  Scripts ran on main.js
+[21/11/2022 -- 20:6]  Scripts ran on main.js
+[21/11/2022 -- 20:6]  Scripts ran on main.js
+[21/11/2022 -- 20:6]  Scripts ran on main.js
+[21/11/2022 -- 20:6]  Scripts ran on main.js
+[21/11/2022 -- 20:7]  Scripts ran on main.js
+[21/11/2022 -- 20:7]  Scripts ran on main.js
+[21/11/2022 -- 20:7]  Scripts ran on main.js
+[21/11/2022 -- 20:7]  Scripts ran on main.js
+[21/11/2022 -- 20:7]  Scripts ran on main.js
+[21/11/2022 -- 20:7]  Scripts ran on main.js
+[21/11/2022 -- 20:8]  Scripts ran on main.js
+[21/11/2022 -- 20:8]  Scripts ran on main.js
+[21/11/2022 -- 20:8]  Scripts ran on main.js
+[21/11/2022 -- 20:8]  Scripts ran on main.js
+[21/11/2022 -- 20:8]  Scripts ran on main.js
+[21/11/2022 -- 20:8]  Scripts ran on main.js
+[21/11/2022 -- 20:8]  Scripts ran on main.js
+[21/11/2022 -- 20:9]  Scripts ran on main.js
+[21/11/2022 -- 20:9]  Scripts ran on main.js
+[21/11/2022 -- 20:9]  Scripts ran on main.js
+[21/11/2022 -- 20:9]  Scripts ran on main.js
+[21/11/2022 -- 20:10]  Scripts ran on main.js
+[21/11/2022 -- 20:10]  Scripts ran on main.js
+[21/11/2022 -- 20:10]  Scripts ran on main.js
+[21/11/2022 -- 20:12]  Scripts ran on main.js
+[21/11/2022 -- 20:12]  Scripts ran on main.js
+[21/11/2022 -- 20:12]  Scripts ran on main.js
+[21/11/2022 -- 20:12]  Scripts ran on main.js
+[21/11/2022 -- 20:12]  Scripts ran on main.js
+[21/11/2022 -- 20:12]  Scripts ran on main.js
+[21/11/2022 -- 20:12]  Scripts ran on main.js
+[21/11/2022 -- 20:12]  Scripts ran on main.js
+[21/11/2022 -- 20:12]  Scripts ran on main.js
+[21/11/2022 -- 20:12]  Scripts ran on main.js
+[21/11/2022 -- 20:13]  Scripts ran on main.js
+[21/11/2022 -- 20:13]  Scripts ran on main.js
+[21/11/2022 -- 20:13]  Scripts ran on main.js
+[21/11/2022 -- 20:14]  Scripts ran on main.js
+[21/11/2022 -- 20:14]  Scripts ran on main.js
+[21/11/2022 -- 20:14]  Scripts ran on main.js
+[21/11/2022 -- 20:14]  Scripts ran on main.js
+[21/11/2022 -- 20:15]  Scripts ran on main.js
+[21/11/2022 -- 20:15]  Scripts ran on main.js
+[21/11/2022 -- 20:15]  Scripts ran on main.js
+[21/11/2022 -- 20:15]  Scripts ran on main.js
+[21/11/2022 -- 20:16]  Scripts ran on main.js
+[21/11/2022 -- 20:16]  Scripts ran on main.js
+[21/11/2022 -- 20:17]  Scripts ran on main.js
+[21/11/2022 -- 20:17]  Scripts ran on main.js
+[21/11/2022 -- 20:18]  Scripts ran on main.js
+[21/11/2022 -- 20:18]  Scripts ran on main.js
+[21/11/2022 -- 20:18]  Scripts ran on main.js
+[21/11/2022 -- 20:18]  Sass ran on files
+[21/11/2022 -- 20:18]  Sass ran on files
+[21/11/2022 -- 20:19]  Scripts ran on main.js
+[21/11/2022 -- 20:19]  Scripts ran on main.js
+[21/11/2022 -- 20:19]  Scripts ran on main.js
+[21/11/2022 -- 20:19]  Scripts ran on main.js
+[21/11/2022 -- 20:19]  Scripts ran on main.js
+[21/11/2022 -- 20:20]  Scripts ran on main.js
+[21/11/2022 -- 20:20]  Scripts ran on main.js
+[21/11/2022 -- 20:20]  Scripts ran on main.js
+[21/11/2022 -- 20:21]  Scripts ran on main.js
+[21/11/2022 -- 20:21]  Scripts ran on main.js
+[21/11/2022 -- 20:23]  Info task started
+[21/11/2022 -- 20:23]  Mustache Templates ran on the HTML files
+[21/11/2022 -- 20:23]  Scripts ran on main.js
+[21/11/2022 -- 20:23]  Sass ran on files
+[21/11/2022 -- 20:23]  Scripts ran on main.js
+[21/11/2022 -- 20:23]  Scripts ran on main.js
+[21/11/2022 -- 20:23]  Scripts ran on main.js
+[21/11/2022 -- 20:24]  Scripts ran on main.js
+[21/11/2022 -- 20:24]  Scripts ran on main.js
+[21/11/2022 -- 20:24]  Scripts ran on main.js
+[21/11/2022 -- 20:24]  Scripts ran on main.js
+[21/11/2022 -- 20:24]  Scripts ran on main.js
+[21/11/2022 -- 20:24]  Scripts ran on main.js
+[21/11/2022 -- 20:24]  Scripts ran on main.js
+[21/11/2022 -- 20:24]  Scripts ran on main.js
+[21/11/2022 -- 20:24]  Scripts ran on main.js
+[21/11/2022 -- 20:24]  Sass ran on files
+[21/11/2022 -- 20:24]  Sass ran on files
+[21/11/2022 -- 20:24]  Sass ran on files
+[21/11/2022 -- 20:24]  Sass ran on files
+[21/11/2022 -- 20:24]  Sass ran on files
+[21/11/2022 -- 20:24]  Sass ran on files
+[21/11/2022 -- 20:24]  Scripts ran on main.js
+[21/11/2022 -- 20:24]  Scripts ran on main.js
+[21/11/2022 -- 20:24]  Scripts ran on main.js
+[21/11/2022 -- 20:24]  Scripts ran on main.js
+[21/11/2022 -- 20:24]  Scripts ran on main.js
+[21/11/2022 -- 20:25]  Scripts ran on main.js
+[21/11/2022 -- 20:25]  Scripts ran on main.js
+[21/11/2022 -- 20:25]  Scripts ran on main.js
+[21/11/2022 -- 20:25]  Scripts ran on main.js
+[21/11/2022 -- 20:25]  Scripts ran on main.js
+[21/11/2022 -- 20:25]  Sass ran on files
+[21/11/2022 -- 20:25]  Sass ran on files
+[21/11/2022 -- 20:25]  Sass ran on files
+[21/11/2022 -- 20:25]  Sass ran on files
+[21/11/2022 -- 20:25]  Sass ran on files
+[21/11/2022 -- 20:25]  Sass ran on files
+[21/11/2022 -- 20:26]  Sass ran on files
+[21/11/2022 -- 20:26]  Sass ran on files
+[21/11/2022 -- 20:26]  Sass ran on files
+[21/11/2022 -- 20:26]  Sass ran on files
+[21/11/2022 -- 20:26]  Sass ran on files
+[21/11/2022 -- 20:26]  Sass ran on files
+[21/11/2022 -- 20:27]  Sass ran on files
+[21/11/2022 -- 20:27]  Sass ran on files
+[21/11/2022 -- 20:27]  Sass ran on files
+[21/11/2022 -- 20:27]  Sass ran on files
+[21/11/2022 -- 20:27]  Sass ran on files
+[21/11/2022 -- 20:27]  Sass ran on files
+[21/11/2022 -- 20:27]  Sass ran on files
+[21/11/2022 -- 20:27]  Sass ran on files
+[21/11/2022 -- 20:27]  Scripts ran on main.js
+[21/11/2022 -- 20:27]  Scripts ran on main.js
+[21/11/2022 -- 20:27]  Scripts ran on main.js
+[21/11/2022 -- 20:27]  Scripts ran on main.js
+[21/11/2022 -- 20:27]  Scripts ran on main.js
+[21/11/2022 -- 20:27]  Scripts ran on main.js
+[21/11/2022 -- 20:28]  Scripts ran on main.js
+[21/11/2022 -- 20:28]  Scripts ran on main.js
+[21/11/2022 -- 20:28]  Sass ran on files
+[21/11/2022 -- 20:28]  Sass ran on files
+[21/11/2022 -- 20:28]  Sass ran on files
+[21/11/2022 -- 20:28]  Sass ran on files
+[21/11/2022 -- 20:29]  Sass ran on files
+[21/11/2022 -- 20:29]  Scripts ran on main.js
+[21/11/2022 -- 20:29]  Scripts ran on main.js
+[21/11/2022 -- 20:29]  Scripts ran on main.js
+[21/11/2022 -- 20:29]  Scripts ran on main.js
+[21/11/2022 -- 20:29]  Scripts ran on main.js
+[21/11/2022 -- 20:30]  Scripts ran on main.js
+[21/11/2022 -- 20:31]  Scripts ran on main.js
+[21/11/2022 -- 20:31]  Scripts ran on main.js
+[21/11/2022 -- 20:31]  Scripts ran on main.js
+[21/11/2022 -- 20:32]  Scripts ran on main.js
+[21/11/2022 -- 20:32]  Scripts ran on main.js
+[21/11/2022 -- 20:32]  Scripts ran on main.js
+[21/11/2022 -- 20:32]  Scripts ran on main.js
+[21/11/2022 -- 20:33]  Scripts ran on main.js
+[21/11/2022 -- 20:33]  Scripts ran on main.js
+[21/11/2022 -- 20:33]  Scripts ran on main.js
+[21/11/2022 -- 20:33]  Scripts ran on main.js
+[21/11/2022 -- 20:33]  Scripts ran on main.js
+[21/11/2022 -- 20:33]  Scripts ran on main.js
+[21/11/2022 -- 20:33]  Scripts ran on main.js
+[21/11/2022 -- 20:34]  Scripts ran on main.js
+[21/11/2022 -- 20:34]  Scripts ran on main.js
+[21/11/2022 -- 20:34]  Scripts ran on main.js
+[21/11/2022 -- 20:34]  Scripts ran on main.js
+[21/11/2022 -- 20:34]  Scripts ran on main.js
+[21/11/2022 -- 20:35]  Scripts ran on main.js
+[21/11/2022 -- 20:35]  Scripts ran on main.js
+[21/11/2022 -- 20:35]  Scripts ran on main.js
+[21/11/2022 -- 20:37]  Scripts ran on main.js
+[21/11/2022 -- 20:37]  Scripts ran on main.js
+[21/11/2022 -- 20:37]  Scripts ran on main.js
+[21/11/2022 -- 20:37]  Scripts ran on main.js
+[21/11/2022 -- 20:37]  Scripts ran on main.js
+[21/11/2022 -- 20:37]  Scripts ran on main.js
+[21/11/2022 -- 20:38]  Scripts ran on main.js
+[21/11/2022 -- 20:38]  Scripts ran on main.js
+[21/11/2022 -- 20:38]  Scripts ran on main.js
+[21/11/2022 -- 20:38]  Scripts ran on main.js
+[21/11/2022 -- 20:38]  Scripts ran on main.js
+[21/11/2022 -- 20:39]  Info task started
+[21/11/2022 -- 20:39]  Mustache Templates ran on the HTML files
+[21/11/2022 -- 20:39]  Scripts ran on main.js
+[21/11/2022 -- 20:39]  Sass ran on files
+[21/11/2022 -- 20:40]  Sass ran on files
+[21/11/2022 -- 20:40]  Sass ran on files
+[21/11/2022 -- 20:40]  Sass ran on files
+[21/11/2022 -- 20:41]  Scripts ran on main.js
+[21/11/2022 -- 20:41]  Sass ran on files
+[21/11/2022 -- 20:41]  Sass ran on files
+[21/11/2022 -- 20:41]  Sass ran on files
+[21/11/2022 -- 20:41]  Sass ran on files
+[21/11/2022 -- 20:42]  Sass ran on files
+[21/11/2022 -- 20:42]  Sass ran on files
+[21/11/2022 -- 20:42]  Sass ran on files
+[21/11/2022 -- 20:42]  Sass ran on files
+[21/11/2022 -- 20:42]  Sass ran on files
+[21/11/2022 -- 20:42]  Sass ran on files
+[21/11/2022 -- 20:42]  Sass ran on files
+[21/11/2022 -- 20:42]  Sass ran on files
+[21/11/2022 -- 20:42]  Sass ran on files
+[21/11/2022 -- 20:42]  Sass ran on files
+[21/11/2022 -- 20:43]  Sass ran on files
+[21/11/2022 -- 20:43]  Sass ran on files
+[21/11/2022 -- 20:43]  Sass ran on files
+[21/11/2022 -- 20:43]  Scripts ran on main.js
+[21/11/2022 -- 20:43]  Scripts ran on main.js
+[21/11/2022 -- 20:43]  Scripts ran on main.js
+[21/11/2022 -- 20:44]  Scripts ran on main.js
+[21/11/2022 -- 20:44]  Scripts ran on main.js
+[21/11/2022 -- 20:44]  Scripts ran on main.js
+[21/11/2022 -- 20:44]  Scripts ran on main.js
+[21/11/2022 -- 20:44]  Scripts ran on main.js
+[21/11/2022 -- 20:44]  Scripts ran on main.js
+[21/11/2022 -- 20:44]  Scripts ran on main.js
+[21/11/2022 -- 20:44]  Scripts ran on main.js
+[21/11/2022 -- 20:44]  Scripts ran on main.js
+[21/11/2022 -- 20:44]  Scripts ran on main.js
+[21/11/2022 -- 20:44]  Scripts ran on main.js
+[21/11/2022 -- 20:44]  Scripts ran on main.js
+[21/11/2022 -- 20:44]  Scripts ran on main.js
+[21/11/2022 -- 20:45]  Scripts ran on main.js
+[21/11/2022 -- 20:45]  Scripts ran on main.js
+[21/11/2022 -- 20:45]  Scripts ran on main.js
+[21/11/2022 -- 20:45]  Scripts ran on main.js
+[21/11/2022 -- 20:45]  Sass ran on files
+[21/11/2022 -- 20:45]  Sass ran on files
+[21/11/2022 -- 20:45]  Sass ran on files
+[21/11/2022 -- 20:45]  Sass ran on files
+[21/11/2022 -- 20:45]  Sass ran on files
+[21/11/2022 -- 20:45]  Sass ran on files
+[21/11/2022 -- 20:46]  Sass ran on files
+[21/11/2022 -- 20:46]  Sass ran on files
+[21/11/2022 -- 20:46]  Sass ran on files
+[21/11/2022 -- 20:46]  Sass ran on files
+[21/11/2022 -- 20:46]  Sass ran on files
+[21/11/2022 -- 20:46]  Sass ran on files
+[21/11/2022 -- 20:46]  Sass ran on files
+[21/11/2022 -- 20:46]  Sass ran on files
+[21/11/2022 -- 20:46]  Sass ran on files
+[21/11/2022 -- 20:46]  Sass ran on files
+[21/11/2022 -- 20:46]  Sass ran on files
+[21/11/2022 -- 20:46]  Sass ran on files
+[21/11/2022 -- 20:46]  Sass ran on files
+[21/11/2022 -- 20:46]  Sass ran on files
+[21/11/2022 -- 20:46]  Sass ran on files
+[21/11/2022 -- 20:47]  Sass ran on files
+[21/11/2022 -- 20:47]  Sass ran on files
+[21/11/2022 -- 20:47]  Sass ran on files
+[21/11/2022 -- 20:47]  Sass ran on files
+[21/11/2022 -- 20:47]  Sass ran on files
+[21/11/2022 -- 20:47]  Sass ran on files
+[21/11/2022 -- 20:47]  Sass ran on files
+[21/11/2022 -- 20:47]  Sass ran on files
+[21/11/2022 -- 20:47]  Sass ran on files
+[21/11/2022 -- 20:47]  Sass ran on files
+[21/11/2022 -- 20:47]  Sass ran on files
+[21/11/2022 -- 20:47]  Sass ran on files
+[21/11/2022 -- 20:48]  Sass ran on files
+[21/11/2022 -- 20:48]  Sass ran on files
+[21/11/2022 -- 20:48]  Sass ran on files
+[21/11/2022 -- 20:48]  Sass ran on files
+[21/11/2022 -- 20:48]  Sass ran on files
+[21/11/2022 -- 20:48]  Sass ran on files
+[21/11/2022 -- 20:48]  Sass ran on files
+[21/11/2022 -- 20:48]  Sass ran on files
+[21/11/2022 -- 20:48]  Sass ran on files
+[21/11/2022 -- 20:48]  Sass ran on files
+[21/11/2022 -- 20:48]  Sass ran on files
+[21/11/2022 -- 20:48]  Sass ran on files
+[21/11/2022 -- 20:48]  Sass ran on files
+[21/11/2022 -- 20:48]  Sass ran on files
+[21/11/2022 -- 20:49]  Sass ran on files
+[21/11/2022 -- 20:49]  Sass ran on files
+[21/11/2022 -- 20:49]  Sass ran on files
+[21/11/2022 -- 20:49]  Sass ran on files
+[21/11/2022 -- 20:49]  Sass ran on files
+[21/11/2022 -- 20:49]  Sass ran on files
+[21/11/2022 -- 20:49]  Sass ran on files
+[21/11/2022 -- 20:49]  Sass ran on files
+[21/11/2022 -- 20:49]  Sass ran on files
+[21/11/2022 -- 20:50]  Sass ran on files
+[21/11/2022 -- 20:50]  Sass ran on files
+[21/11/2022 -- 20:50]  Scripts ran on main.js
+[21/11/2022 -- 20:50]  Scripts ran on main.js
+[21/11/2022 -- 20:50]  Scripts ran on main.js
+[21/11/2022 -- 20:50]  Scripts ran on main.js
+[21/11/2022 -- 20:50]  Scripts ran on main.js
+[21/11/2022 -- 20:50]  Scripts ran on main.js
+[21/11/2022 -- 20:50]  Scripts ran on main.js
+[21/11/2022 -- 20:50]  Sass ran on files
+[21/11/2022 -- 20:52]  Sass ran on files
+[21/11/2022 -- 20:53]  Sass ran on files
+[21/11/2022 -- 20:53]  Sass ran on files
+[21/11/2022 -- 20:53]  Sass ran on files
+[21/11/2022 -- 20:53]  Sass ran on files
+[21/11/2022 -- 20:53]  Sass ran on files
+[21/11/2022 -- 20:53]  Sass ran on files
+[21/11/2022 -- 20:54]  Sass ran on files
+[21/11/2022 -- 20:54]  Sass ran on files
+[21/11/2022 -- 20:54]  Sass ran on files
+[21/11/2022 -- 20:54]  Sass ran on files
+[21/11/2022 -- 20:54]  Sass ran on files
+[21/11/2022 -- 20:54]  Sass ran on files
+[21/11/2022 -- 20:55]  Sass ran on files
+[21/11/2022 -- 20:55]  Sass ran on files
+[21/11/2022 -- 20:55]  Sass ran on files
+[21/11/2022 -- 20:55]  Sass ran on files
+[21/11/2022 -- 20:55]  Sass ran on files
+[21/11/2022 -- 20:56]  Sass ran on files
+[21/11/2022 -- 20:56]  Sass ran on files
+[21/11/2022 -- 20:56]  Sass ran on files
+[21/11/2022 -- 20:56]  Sass ran on files
+[21/11/2022 -- 20:56]  Sass ran on files
+[21/11/2022 -- 20:56]  Sass ran on files
+[21/11/2022 -- 20:56]  Sass ran on files
+[21/11/2022 -- 20:56]  Sass ran on files
+[21/11/2022 -- 20:57]  Sass ran on files
+[21/11/2022 -- 20:57]  Sass ran on files
+[21/11/2022 -- 21:0]  Sass ran on files
+[21/11/2022 -- 21:0]  Sass ran on files
+[21/11/2022 -- 21:0]  Sass ran on files
+[21/11/2022 -- 21:0]  Sass ran on files
+[21/11/2022 -- 21:0]  Sass ran on files
+[21/11/2022 -- 21:1]  Sass ran on files
+[21/11/2022 -- 21:1]  Sass ran on files
+[21/11/2022 -- 21:1]  Sass ran on files
+[21/11/2022 -- 21:1]  Sass ran on files
+[21/11/2022 -- 21:2]  Sass ran on files
+[21/11/2022 -- 21:2]  Sass ran on files
+[21/11/2022 -- 21:7]  Sass ran on files
+[21/11/2022 -- 21:8]  Sass ran on files
+[21/11/2022 -- 21:8]  Sass ran on files
+[21/11/2022 -- 21:8]  Sass ran on files
+[21/11/2022 -- 21:8]  Sass ran on files
+[21/11/2022 -- 21:8]  Sass ran on files
+[21/11/2022 -- 21:8]  Sass ran on files
+[21/11/2022 -- 21:8]  Sass ran on files
+[21/11/2022 -- 21:8]  Sass ran on files
+[21/11/2022 -- 21:8]  Sass ran on files
+[21/11/2022 -- 21:8]  Sass ran on files
+[21/11/2022 -- 21:8]  Sass ran on files
+[21/11/2022 -- 21:8]  Sass ran on files
+[21/11/2022 -- 21:8]  Sass ran on files
+[21/11/2022 -- 21:8]  Sass ran on files
+[21/11/2022 -- 21:8]  Sass ran on files
+[21/11/2022 -- 21:8]  Sass ran on files
+[21/11/2022 -- 21:9]  Sass ran on files
+[21/11/2022 -- 21:9]  Sass ran on files
+[21/11/2022 -- 21:9]  Sass ran on files
+[21/11/2022 -- 21:9]  Sass ran on files
+[21/11/2022 -- 21:9]  Sass ran on files
+[21/11/2022 -- 21:10]  Sass ran on files
+[21/11/2022 -- 21:10]  Sass ran on files
+[21/11/2022 -- 21:10]  Sass ran on files
+[21/11/2022 -- 21:10]  Sass ran on files
+[21/11/2022 -- 21:11]  Sass ran on files
+[21/11/2022 -- 21:11]  Sass ran on files
+[21/11/2022 -- 21:11]  Sass ran on files
+[21/11/2022 -- 21:11]  Sass ran on files
+[21/11/2022 -- 21:11]  Sass ran on files
+[21/11/2022 -- 21:11]  Sass ran on files
+[21/11/2022 -- 21:11]  Sass ran on files
+[21/11/2022 -- 21:12]  Sass ran on files
+[21/11/2022 -- 21:12]  Sass ran on files
+[21/11/2022 -- 21:12]  Sass ran on files
+[21/11/2022 -- 21:12]  Sass ran on files
+[21/11/2022 -- 21:12]  Sass ran on files
+[21/11/2022 -- 21:12]  Sass ran on files
+[21/11/2022 -- 21:12]  Sass ran on files
+[21/11/2022 -- 21:12]  Sass ran on files
+[21/11/2022 -- 21:12]  Sass ran on files
+[21/11/2022 -- 21:12]  Sass ran on files
+[21/11/2022 -- 21:12]  Sass ran on files
+[21/11/2022 -- 21:12]  Sass ran on files
+[21/11/2022 -- 21:12]  Sass ran on files
+[21/11/2022 -- 21:13]  Sass ran on files
+[21/11/2022 -- 21:13]  Sass ran on files
+[21/11/2022 -- 21:13]  Sass ran on files
+[21/11/2022 -- 21:13]  Sass ran on files
+[21/11/2022 -- 21:13]  Sass ran on files
+[21/11/2022 -- 21:14]  Sass ran on files
+[21/11/2022 -- 21:14]  Sass ran on files
+[21/11/2022 -- 21:14]  Sass ran on files
+[21/11/2022 -- 21:14]  Sass ran on files
+[21/11/2022 -- 21:14]  Sass ran on files
+[21/11/2022 -- 21:14]  Sass ran on files
+[21/11/2022 -- 21:14]  Sass ran on files
+[21/11/2022 -- 21:14]  Sass ran on files
+[21/11/2022 -- 21:14]  Sass ran on files
+[21/11/2022 -- 21:15]  Sass ran on files
+[21/11/2022 -- 21:15]  Sass ran on files
+[21/11/2022 -- 21:15]  Sass ran on files
+[21/11/2022 -- 21:15]  Sass ran on files
+[21/11/2022 -- 21:15]  Sass ran on files
+[21/11/2022 -- 21:15]  Sass ran on files
+[21/11/2022 -- 21:15]  Sass ran on files
+[21/11/2022 -- 21:15]  Sass ran on files
+[21/11/2022 -- 21:15]  Sass ran on files
+[21/11/2022 -- 21:15]  Sass ran on files
+[21/11/2022 -- 21:16]  Sass ran on files
+[21/11/2022 -- 21:16]  Sass ran on files
+[21/11/2022 -- 21:16]  Sass ran on files
+[21/11/2022 -- 21:16]  Sass ran on files
+[21/11/2022 -- 21:16]  Sass ran on files
+[21/11/2022 -- 21:16]  Sass ran on files
+[21/11/2022 -- 21:16]  Sass ran on files
+[21/11/2022 -- 21:16]  Sass ran on files
+[21/11/2022 -- 21:16]  Sass ran on files
+[21/11/2022 -- 21:16]  Sass ran on files
+[21/11/2022 -- 21:16]  Sass ran on files
+[21/11/2022 -- 21:16]  Sass ran on files
+[21/11/2022 -- 21:16]  Sass ran on files
+[21/11/2022 -- 21:16]  Sass ran on files
+[21/11/2022 -- 21:16]  Sass ran on files
+[21/11/2022 -- 21:17]  Sass ran on files
+[21/11/2022 -- 21:17]  Sass ran on files
+[21/11/2022 -- 21:17]  Sass ran on files
+[21/11/2022 -- 21:17]  Sass ran on files
+[21/11/2022 -- 21:17]  Sass ran on files
+[21/11/2022 -- 21:17]  Sass ran on files
+[21/11/2022 -- 21:17]  Sass ran on files
+[21/11/2022 -- 21:17]  Sass ran on files
+[21/11/2022 -- 21:17]  Sass ran on files
+[21/11/2022 -- 21:18]  Sass ran on files
+[21/11/2022 -- 21:18]  Sass ran on files
+[21/11/2022 -- 21:18]  Sass ran on files
+[21/11/2022 -- 21:18]  Sass ran on files
+[21/11/2022 -- 21:18]  Sass ran on files
+[21/11/2022 -- 21:18]  Sass ran on files
+[21/11/2022 -- 21:18]  Sass ran on files
+[21/11/2022 -- 21:18]  Sass ran on files
+[21/11/2022 -- 21:18]  Sass ran on files
+[21/11/2022 -- 21:18]  Sass ran on files
+[21/11/2022 -- 21:18]  Sass ran on files
+[21/11/2022 -- 21:18]  Sass ran on files
+[21/11/2022 -- 21:18]  Sass ran on files
+[21/11/2022 -- 21:18]  Sass ran on files
+[21/11/2022 -- 21:19]  Sass ran on files
+[21/11/2022 -- 21:19]  Sass ran on files
+[21/11/2022 -- 21:19]  Sass ran on files
+[21/11/2022 -- 21:19]  Sass ran on files
+[21/11/2022 -- 21:19]  Sass ran on files
+[21/11/2022 -- 21:19]  Sass ran on files
+[21/11/2022 -- 21:19]  Sass ran on files
+[21/11/2022 -- 21:19]  Sass ran on files
+[21/11/2022 -- 21:20]  Sass ran on files
+[21/11/2022 -- 21:20]  Sass ran on files
+[21/11/2022 -- 21:20]  Sass ran on files
+[21/11/2022 -- 21:20]  Sass ran on files
+[21/11/2022 -- 21:20]  Sass ran on files
+[21/11/2022 -- 21:21]  Sass ran on files
+[21/11/2022 -- 21:22]  Sass ran on files
+[21/11/2022 -- 21:22]  Sass ran on files
+[21/11/2022 -- 21:22]  Sass ran on files
+[21/11/2022 -- 21:22]  Sass ran on files
+[21/11/2022 -- 21:23]  Sass ran on files
+[21/11/2022 -- 21:23]  Sass ran on files
+[21/11/2022 -- 21:23]  Sass ran on files
+[21/11/2022 -- 21:23]  Sass ran on files
+[21/11/2022 -- 21:23]  Sass ran on files
+[21/11/2022 -- 21:23]  Sass ran on files
+[21/11/2022 -- 21:23]  Sass ran on files
+[21/11/2022 -- 21:23]  Sass ran on files
+[21/11/2022 -- 21:23]  Sass ran on files
+[21/11/2022 -- 21:23]  Sass ran on files
+[21/11/2022 -- 21:25]  Info task started
+[21/11/2022 -- 21:25]  Mustache Templates ran on the HTML files
+[21/11/2022 -- 21:25]  Scripts ran on main.js
+[21/11/2022 -- 21:26]  Sass ran on files
+[21/11/2022 -- 21:26]  Sass ran on files
+[21/11/2022 -- 21:26]  Sass ran on files
+[21/11/2022 -- 21:26]  Sass ran on files
+[21/11/2022 -- 21:26]  Sass ran on files
+[21/11/2022 -- 21:27]  Sass ran on files
+[21/11/2022 -- 21:27]  Sass ran on files
+[21/11/2022 -- 21:27]  Sass ran on files
+[21/11/2022 -- 21:27]  Sass ran on files
+[21/11/2022 -- 21:27]  Sass ran on files
+[21/11/2022 -- 21:28]  Sass ran on files
+[21/11/2022 -- 21:28]  Sass ran on files
+[21/11/2022 -- 21:28]  Sass ran on files
+[21/11/2022 -- 21:28]  Sass ran on files
+[21/11/2022 -- 21:28]  Sass ran on files
+[21/11/2022 -- 21:28]  Sass ran on files
+[21/11/2022 -- 21:28]  Sass ran on files
+[21/11/2022 -- 21:29]  Sass ran on files
+[21/11/2022 -- 21:29]  Sass ran on files
+[21/11/2022 -- 21:29]  Sass ran on files
+[21/11/2022 -- 21:29]  Scripts ran on main.js
+[21/11/2022 -- 21:29]  Scripts ran on main.js
+[21/11/2022 -- 21:30]  Sass ran on files
+[21/11/2022 -- 21:30]  Sass ran on files
+[21/11/2022 -- 21:30]  Sass ran on files
+[21/11/2022 -- 21:30]  Sass ran on files
+[21/11/2022 -- 21:30]  Sass ran on files
+[21/11/2022 -- 21:30]  Sass ran on files
+[21/11/2022 -- 21:30]  Sass ran on files
+[21/11/2022 -- 21:30]  Sass ran on files
+[21/11/2022 -- 21:30]  Sass ran on files
+[21/11/2022 -- 21:31]  Sass ran on files
+[21/11/2022 -- 21:31]  Sass ran on files
+[21/11/2022 -- 21:31]  Sass ran on files
+[21/11/2022 -- 21:31]  Sass ran on files
+[21/11/2022 -- 21:32]  Sass ran on files
+[21/11/2022 -- 21:32]  Sass ran on files
+[21/11/2022 -- 21:32]  Sass ran on files
+[21/11/2022 -- 21:32]  Sass ran on files
+[21/11/2022 -- 21:32]  Sass ran on files
+[21/11/2022 -- 21:32]  Sass ran on files
+[21/11/2022 -- 21:32]  Sass ran on files
+[21/11/2022 -- 21:32]  Sass ran on files
+[21/11/2022 -- 21:32]  Sass ran on files
+[21/11/2022 -- 21:32]  Sass ran on files
+[21/11/2022 -- 21:32]  Sass ran on files
+[21/11/2022 -- 21:32]  Scripts ran on main.js
+[21/11/2022 -- 21:32]  Scripts ran on main.js
+[21/11/2022 -- 21:32]  Scripts ran on main.js
+[21/11/2022 -- 21:32]  Scripts ran on main.js
+[21/11/2022 -- 21:32]  Scripts ran on main.js
+[21/11/2022 -- 21:32]  Scripts ran on main.js
+[21/11/2022 -- 21:33]  Scripts ran on main.js
+[21/11/2022 -- 21:33]  Scripts ran on main.js
+[21/11/2022 -- 21:33]  Sass ran on files
+[21/11/2022 -- 21:33]  Sass ran on files
+[21/11/2022 -- 21:33]  Sass ran on files
+[21/11/2022 -- 21:33]  Sass ran on files
+[21/11/2022 -- 21:33]  Sass ran on files
+[21/11/2022 -- 21:33]  Sass ran on files
+[21/11/2022 -- 21:33]  Sass ran on files
+[21/11/2022 -- 21:34]  Sass ran on files
+[21/11/2022 -- 21:34]  Sass ran on files
+[21/11/2022 -- 21:34]  Sass ran on files
+[21/11/2022 -- 21:34]  Sass ran on files
+[21/11/2022 -- 21:34]  Sass ran on files
+[21/11/2022 -- 21:34]  Sass ran on files
+[21/11/2022 -- 21:34]  Sass ran on files
+[21/11/2022 -- 21:34]  Sass ran on files
+[21/11/2022 -- 21:35]  Scripts ran on main.js
+[21/11/2022 -- 21:35]  Sass ran on files
+[21/11/2022 -- 21:35]  Sass ran on files
+[21/11/2022 -- 21:35]  Sass ran on files
+[21/11/2022 -- 21:35]  Sass ran on files
+[21/11/2022 -- 21:35]  Sass ran on files
+[21/11/2022 -- 21:35]  Sass ran on files
+[21/11/2022 -- 21:35]  Sass ran on files
+[21/11/2022 -- 21:36]  Scripts ran on main.js
+[21/11/2022 -- 21:37]  Sass ran on files
+[21/11/2022 -- 21:37]  Sass ran on files
+[21/11/2022 -- 21:37]  Sass ran on files
+[21/11/2022 -- 21:37]  Sass ran on files
+[21/11/2022 -- 21:37]  Scripts ran on main.js
+[21/11/2022 -- 21:38]  Scripts ran on main.js
+[21/11/2022 -- 21:38]  Scripts ran on main.js
+[21/11/2022 -- 21:38]  Scripts ran on main.js
+[21/11/2022 -- 21:38]  Scripts ran on main.js
+[21/11/2022 -- 21:38]  Scripts ran on main.js
+[21/11/2022 -- 21:38]  Scripts ran on main.js
+[21/11/2022 -- 21:38]  Scripts ran on main.js
+[21/11/2022 -- 21:38]  Scripts ran on main.js
+[21/11/2022 -- 21:38]  Scripts ran on main.js
+[21/11/2022 -- 21:38]  Scripts ran on main.js
+[21/11/2022 -- 21:38]  Scripts ran on main.js
+[21/11/2022 -- 21:38]  Scripts ran on main.js
+[21/11/2022 -- 21:38]  Scripts ran on main.js
+[21/11/2022 -- 21:38]  Scripts ran on main.js
+[21/11/2022 -- 21:38]  Scripts ran on main.js
+[21/11/2022 -- 21:39]  Scripts ran on main.js
+[21/11/2022 -- 21:39]  Scripts ran on main.js
+[21/11/2022 -- 21:39]  Sass ran on files
+[21/11/2022 -- 21:39]  Sass ran on files
+[21/11/2022 -- 21:39]  Sass ran on files
+[21/11/2022 -- 21:39]  Sass ran on files
+[21/11/2022 -- 21:39]  Sass ran on files
+[21/11/2022 -- 21:39]  Sass ran on files
+[21/11/2022 -- 21:39]  Sass ran on files
+[21/11/2022 -- 21:39]  Sass ran on files
+[21/11/2022 -- 21:39]  Sass ran on files
+[21/11/2022 -- 21:39]  Sass ran on files
+[21/11/2022 -- 21:40]  Sass ran on files
+[21/11/2022 -- 21:40]  Sass ran on files
+[21/11/2022 -- 21:40]  Sass ran on files
+[21/11/2022 -- 21:40]  Sass ran on files
+[21/11/2022 -- 21:40]  Sass ran on files
+[21/11/2022 -- 21:40]  Sass ran on files
+[21/11/2022 -- 21:40]  Sass ran on files
+[21/11/2022 -- 21:41]  Sass ran on files
+[21/11/2022 -- 21:41]  Sass ran on files
+[21/11/2022 -- 21:41]  Sass ran on files
+[21/11/2022 -- 21:41]  Sass ran on files
+[21/11/2022 -- 21:42]  Sass ran on files
+[21/11/2022 -- 21:42]  Sass ran on files
+[21/11/2022 -- 21:42]  Sass ran on files
+[21/11/2022 -- 21:42]  Sass ran on files
+[21/11/2022 -- 21:43]  Sass ran on files
+[21/11/2022 -- 21:43]  Sass ran on files
+[21/11/2022 -- 21:44]  Sass ran on files
+[21/11/2022 -- 21:44]  Sass ran on files
+[21/11/2022 -- 21:44]  Sass ran on files
+[21/11/2022 -- 21:44]  Sass ran on files
+[21/11/2022 -- 21:44]  Sass ran on files
+[21/11/2022 -- 21:44]  Sass ran on files
+[21/11/2022 -- 21:44]  Sass ran on files
+[21/11/2022 -- 21:44]  Sass ran on files
+[21/11/2022 -- 21:44]  Sass ran on files
+[21/11/2022 -- 21:44]  Sass ran on files
+[21/11/2022 -- 21:44]  Sass ran on files
+[21/11/2022 -- 21:44]  Sass ran on files
+[21/11/2022 -- 21:45]  Sass ran on files
+[21/11/2022 -- 21:45]  Sass ran on files
+[21/11/2022 -- 21:45]  Sass ran on files
+[21/11/2022 -- 21:45]  Sass ran on files
+[21/11/2022 -- 21:46]  Sass ran on files
+[21/11/2022 -- 21:46]  Sass ran on files
+[21/11/2022 -- 21:46]  Sass ran on files
+[21/11/2022 -- 21:46]  Sass ran on files
+[21/11/2022 -- 21:47]  Sass ran on files
+[21/11/2022 -- 21:47]  Sass ran on files
+[21/11/2022 -- 21:47]  Sass ran on files
+[21/11/2022 -- 21:47]  Sass ran on files
+[21/11/2022 -- 21:47]  Sass ran on files
+[21/11/2022 -- 21:47]  Sass ran on files
+[21/11/2022 -- 21:47]  Sass ran on files
+[21/11/2022 -- 21:47]  Sass ran on files
+[21/11/2022 -- 21:47]  Sass ran on files
+[21/11/2022 -- 21:47]  Sass ran on files
+[21/11/2022 -- 21:47]  Sass ran on files
+[21/11/2022 -- 21:48]  Sass ran on files
+[21/11/2022 -- 21:48]  Sass ran on files
+[21/11/2022 -- 21:48]  Sass ran on files
+[21/11/2022 -- 21:48]  Sass ran on files
+[21/11/2022 -- 21:48]  Sass ran on files
+[21/11/2022 -- 21:48]  Sass ran on files
+[21/11/2022 -- 21:48]  Sass ran on files
+[21/11/2022 -- 21:48]  Sass ran on files
+[21/11/2022 -- 21:48]  Sass ran on files
+[21/11/2022 -- 21:49]  Sass ran on files
+[21/11/2022 -- 21:49]  Sass ran on files
+[21/11/2022 -- 21:49]  Sass ran on files
+[21/11/2022 -- 21:49]  Sass ran on files
+[21/11/2022 -- 21:49]  Sass ran on files
+[21/11/2022 -- 21:49]  Sass ran on files
+[21/11/2022 -- 21:49]  Sass ran on files
+[21/11/2022 -- 21:49]  Sass ran on files
+[21/11/2022 -- 21:49]  Sass ran on files
+[21/11/2022 -- 21:49]  Sass ran on files
+[21/11/2022 -- 21:49]  Sass ran on files
+[21/11/2022 -- 21:49]  Sass ran on files
+[21/11/2022 -- 21:49]  Sass ran on files
+[21/11/2022 -- 21:50]  Sass ran on files
+[21/11/2022 -- 21:50]  Sass ran on files
+[21/11/2022 -- 21:50]  Sass ran on files
+[21/11/2022 -- 21:50]  Sass ran on files
+[21/11/2022 -- 21:50]  Sass ran on files
+[21/11/2022 -- 21:50]  Sass ran on files
+[21/11/2022 -- 21:50]  Sass ran on files
+[21/11/2022 -- 21:50]  Sass ran on files
+[21/11/2022 -- 21:51]  Sass ran on files
+[21/11/2022 -- 21:52]  Sass ran on files
+[21/11/2022 -- 21:52]  Sass ran on files
+[21/11/2022 -- 21:52]  Sass ran on files
+[21/11/2022 -- 21:52]  Sass ran on files
+[21/11/2022 -- 21:52]  Sass ran on files
+[21/11/2022 -- 21:52]  Sass ran on files
+[21/11/2022 -- 21:52]  Sass ran on files
+[21/11/2022 -- 21:52]  Sass ran on files
+[21/11/2022 -- 21:52]  Sass ran on files
+[21/11/2022 -- 21:52]  Sass ran on files
+[21/11/2022 -- 21:52]  Sass ran on files
+[21/11/2022 -- 21:52]  Sass ran on files
+[21/11/2022 -- 21:52]  Sass ran on files
+[21/11/2022 -- 21:52]  Sass ran on files
+[21/11/2022 -- 21:52]  Sass ran on files
+[21/11/2022 -- 21:52]  Sass ran on files
+[21/11/2022 -- 21:52]  Sass ran on files
+[21/11/2022 -- 21:53]  Sass ran on files
+[21/11/2022 -- 21:53]  Sass ran on files
+[21/11/2022 -- 21:53]  Sass ran on files
+[21/11/2022 -- 21:53]  Sass ran on files
+[21/11/2022 -- 21:53]  Sass ran on files
+[21/11/2022 -- 21:54]  Sass ran on files
+[21/11/2022 -- 21:54]  Sass ran on files
+[21/11/2022 -- 21:54]  Sass ran on files
+[21/11/2022 -- 21:54]  Sass ran on files
+[21/11/2022 -- 21:54]  Sass ran on files
+[21/11/2022 -- 21:54]  Sass ran on files
+[21/11/2022 -- 21:54]  Sass ran on files
+[21/11/2022 -- 21:54]  Sass ran on files
+[21/11/2022 -- 21:54]  Sass ran on files
+[21/11/2022 -- 21:54]  Sass ran on files
+[21/11/2022 -- 21:54]  Sass ran on files
+[21/11/2022 -- 21:54]  Sass ran on files
+[21/11/2022 -- 21:54]  Sass ran on files
+[21/11/2022 -- 21:54]  Sass ran on files
+[21/11/2022 -- 21:55]  Sass ran on files
+[21/11/2022 -- 21:55]  Sass ran on files
+[21/11/2022 -- 21:55]  Sass ran on files
+[21/11/2022 -- 21:55]  Sass ran on files
+[21/11/2022 -- 21:55]  Sass ran on files
+[21/11/2022 -- 21:55]  Sass ran on files
+[21/11/2022 -- 21:55]  Sass ran on files
+[21/11/2022 -- 21:55]  Sass ran on files
+[21/11/2022 -- 21:56]  Sass ran on files
+[21/11/2022 -- 21:56]  Sass ran on files
+[21/11/2022 -- 21:56]  Sass ran on files
+[21/11/2022 -- 21:56]  Sass ran on files
+[21/11/2022 -- 21:56]  Sass ran on files
+[21/11/2022 -- 21:56]  Sass ran on files
+[21/11/2022 -- 21:56]  Sass ran on files
+[21/11/2022 -- 21:56]  Sass ran on files
+[21/11/2022 -- 21:56]  Sass ran on files
+[21/11/2022 -- 21:57]  Sass ran on files
+[21/11/2022 -- 21:57]  Sass ran on files
+[21/11/2022 -- 21:57]  Sass ran on files
+[21/11/2022 -- 21:57]  Sass ran on files
+[21/11/2022 -- 21:57]  Sass ran on files
+[21/11/2022 -- 21:57]  Sass ran on files
+[21/11/2022 -- 21:58]  Sass ran on files
+[21/11/2022 -- 21:58]  Sass ran on files
+[21/11/2022 -- 21:58]  Sass ran on files
+[21/11/2022 -- 21:58]  Sass ran on files
+[21/11/2022 -- 21:58]  Sass ran on files
+[21/11/2022 -- 21:58]  Sass ran on files
+[21/11/2022 -- 21:58]  Sass ran on files
+[21/11/2022 -- 21:58]  Sass ran on files
+[21/11/2022 -- 21:58]  Sass ran on files
+[21/11/2022 -- 21:58]  Sass ran on files
+[21/11/2022 -- 21:58]  Sass ran on files
+[21/11/2022 -- 21:58]  Sass ran on files
+[21/11/2022 -- 21:58]  Sass ran on files
+[21/11/2022 -- 21:58]  Sass ran on files
+[21/11/2022 -- 21:59]  Sass ran on files
+[21/11/2022 -- 21:59]  Sass ran on files
+[21/11/2022 -- 21:59]  Sass ran on files
+[21/11/2022 -- 21:59]  Sass ran on files
+[21/11/2022 -- 21:59]  Sass ran on files
+[21/11/2022 -- 21:59]  Sass ran on files
+[21/11/2022 -- 21:59]  Sass ran on files
+[21/11/2022 -- 21:59]  Sass ran on files
+[21/11/2022 -- 21:59]  Sass ran on files
+[21/11/2022 -- 21:59]  Sass ran on files
+[21/11/2022 -- 21:59]  Sass ran on files
+[21/11/2022 -- 21:59]  Sass ran on files
+[21/11/2022 -- 22:0]  Sass ran on files
+[21/11/2022 -- 22:0]  Sass ran on files
+[21/11/2022 -- 22:0]  Sass ran on files
+[21/11/2022 -- 22:0]  Sass ran on files
+[21/11/2022 -- 22:0]  Sass ran on files
+[21/11/2022 -- 22:0]  Sass ran on files
+[21/11/2022 -- 22:1]  Sass ran on files
+[21/11/2022 -- 22:1]  Sass ran on files
+[21/11/2022 -- 22:1]  Sass ran on files
+[21/11/2022 -- 22:1]  Sass ran on files
+[21/11/2022 -- 22:1]  Sass ran on files
+[21/11/2022 -- 22:1]  Sass ran on files
+[21/11/2022 -- 22:1]  Sass ran on files
+[21/11/2022 -- 22:1]  Sass ran on files
+[21/11/2022 -- 22:1]  Sass ran on files
+[21/11/2022 -- 22:1]  Sass ran on files
+[21/11/2022 -- 22:2]  Sass ran on files
+[21/11/2022 -- 22:2]  Sass ran on files
+[21/11/2022 -- 22:2]  Sass ran on files
+[21/11/2022 -- 22:2]  Sass ran on files
+[21/11/2022 -- 22:2]  Sass ran on files
+[21/11/2022 -- 22:2]  Sass ran on files
+[21/11/2022 -- 22:2]  Sass ran on files
+[21/11/2022 -- 22:2]  Sass ran on files
+[21/11/2022 -- 22:2]  Sass ran on files
+[21/11/2022 -- 22:2]  Sass ran on files
+[21/11/2022 -- 22:2]  Sass ran on files
+[21/11/2022 -- 22:2]  Sass ran on files
+[21/11/2022 -- 22:3]  Sass ran on files
+[21/11/2022 -- 22:3]  Sass ran on files
+[21/11/2022 -- 22:3]  Sass ran on files
+[21/11/2022 -- 22:3]  Sass ran on files
+[21/11/2022 -- 22:3]  Sass ran on files
+[21/11/2022 -- 22:3]  Sass ran on files
+[21/11/2022 -- 22:3]  Sass ran on files
+[21/11/2022 -- 22:3]  Sass ran on files
+[21/11/2022 -- 22:3]  Sass ran on files
+[21/11/2022 -- 22:3]  Sass ran on files
+[21/11/2022 -- 22:3]  Sass ran on files
+[21/11/2022 -- 22:3]  Sass ran on files
+[21/11/2022 -- 22:3]  Sass ran on files
+[21/11/2022 -- 22:3]  Sass ran on files
+[21/11/2022 -- 22:3]  Sass ran on files
+[21/11/2022 -- 22:4]  Sass ran on files
+[21/11/2022 -- 22:4]  Sass ran on files
+[21/11/2022 -- 22:4]  Sass ran on files
+[21/11/2022 -- 22:6]  Info task started
+[21/11/2022 -- 22:6]  Mustache Templates ran on the HTML files
+[21/11/2022 -- 22:6]  Scripts ran on main.js
+[21/11/2022 -- 22:6]  Sass ran on files
+[21/11/2022 -- 22:8]  Sass ran on files
+[21/11/2022 -- 22:8]  Sass ran on files
+[21/11/2022 -- 22:8]  Sass ran on files
+[21/11/2022 -- 22:8]  Sass ran on files
+[21/11/2022 -- 22:8]  Sass ran on files
+[21/11/2022 -- 22:8]  Sass ran on files
+[21/11/2022 -- 22:8]  Sass ran on files
+[21/11/2022 -- 22:8]  Sass ran on files
+[21/11/2022 -- 22:9]  Sass ran on files
+[21/11/2022 -- 22:9]  Sass ran on files
+[21/11/2022 -- 22:9]  Sass ran on files
+[21/11/2022 -- 22:9]  Sass ran on files
+[21/11/2022 -- 22:9]  Sass ran on files
+[21/11/2022 -- 22:9]  Sass ran on files
+[21/11/2022 -- 22:9]  Sass ran on files
+[21/11/2022 -- 22:9]  Sass ran on files
+[21/11/2022 -- 22:9]  Sass ran on files
+[21/11/2022 -- 22:10]  Sass ran on files
+[21/11/2022 -- 22:10]  Sass ran on files
+[21/11/2022 -- 22:10]  Sass ran on files
+[21/11/2022 -- 22:10]  Sass ran on files
+[21/11/2022 -- 22:10]  Sass ran on files
+[21/11/2022 -- 22:10]  Sass ran on files
+[21/11/2022 -- 22:10]  Sass ran on files
+[21/11/2022 -- 22:11]  Sass ran on files
+[21/11/2022 -- 22:11]  Sass ran on files
+[21/11/2022 -- 22:11]  Sass ran on files
+[21/11/2022 -- 22:11]  Sass ran on files
+[21/11/2022 -- 22:11]  Scripts ran on main.js
+[21/11/2022 -- 22:11]  Scripts ran on main.js
+[21/11/2022 -- 22:11]  Sass ran on files
+[21/11/2022 -- 22:12]  Sass ran on files
+[21/11/2022 -- 22:12]  Sass ran on files
+[21/11/2022 -- 22:12]  Sass ran on files
+[21/11/2022 -- 22:12]  Sass ran on files
+[21/11/2022 -- 22:12]  Sass ran on files
+[21/11/2022 -- 22:12]  Sass ran on files
+[21/11/2022 -- 22:12]  Sass ran on files
+[21/11/2022 -- 22:12]  Sass ran on files
+[21/11/2022 -- 22:12]  Sass ran on files
+[21/11/2022 -- 22:12]  Sass ran on files
+[21/11/2022 -- 22:12]  Sass ran on files
+[21/11/2022 -- 22:12]  Sass ran on files
+[21/11/2022 -- 22:13]  Scripts ran on main.js
+[21/11/2022 -- 22:13]  Scripts ran on main.js
+[21/11/2022 -- 22:14]  Scripts ran on main.js
+[21/11/2022 -- 22:14]  Scripts ran on main.js
+[21/11/2022 -- 22:14]  Scripts ran on main.js
+[21/11/2022 -- 22:14]  Scripts ran on main.js
+[21/11/2022 -- 22:14]  Scripts ran on main.js
+[21/11/2022 -- 22:14]  Sass ran on files
+[21/11/2022 -- 22:14]  Sass ran on files
+[21/11/2022 -- 22:14]  Sass ran on files
+[21/11/2022 -- 22:15]  Scripts ran on main.js
+[21/11/2022 -- 22:15]  Scripts ran on main.js
+[21/11/2022 -- 22:15]  Scripts ran on main.js
+[21/11/2022 -- 22:15]  Scripts ran on main.js
+[21/11/2022 -- 22:15]  Scripts ran on main.js
+[21/11/2022 -- 22:15]  Sass ran on files
+[21/11/2022 -- 22:16]  Sass ran on files
+[21/11/2022 -- 22:16]  Sass ran on files
+[21/11/2022 -- 22:16]  Sass ran on files
+[21/11/2022 -- 22:16]  Sass ran on files
+[21/11/2022 -- 22:16]  Sass ran on files
+[21/11/2022 -- 22:16]  Sass ran on files
+[21/11/2022 -- 22:16]  Sass ran on files
+[21/11/2022 -- 22:16]  Scripts ran on main.js
+[21/11/2022 -- 22:16]  Scripts ran on main.js
+[21/11/2022 -- 22:16]  Sass ran on files
+[21/11/2022 -- 22:16]  Sass ran on files
+[21/11/2022 -- 22:17]  Sass ran on files
+[21/11/2022 -- 22:17]  Sass ran on files
+[21/11/2022 -- 22:17]  Sass ran on files
+[21/11/2022 -- 22:17]  Sass ran on files
+[21/11/2022 -- 22:17]  Sass ran on files
+[21/11/2022 -- 22:17]  Sass ran on files
+[21/11/2022 -- 22:17]  Scripts ran on main.js
+[21/11/2022 -- 22:17]  Scripts ran on main.js
+[21/11/2022 -- 22:18]  Scripts ran on main.js
+[21/11/2022 -- 22:18]  Scripts ran on main.js
+[21/11/2022 -- 22:18]  Scripts ran on main.js
+[21/11/2022 -- 22:18]  Scripts ran on main.js
+[21/11/2022 -- 22:18]  Sass ran on files
+[21/11/2022 -- 22:18]  Sass ran on files
+[21/11/2022 -- 22:18]  Sass ran on files
+[21/11/2022 -- 22:18]  Sass ran on files
+[21/11/2022 -- 22:18]  Sass ran on files
+[21/11/2022 -- 22:19]  Sass ran on files
+[21/11/2022 -- 22:19]  Sass ran on files
+[21/11/2022 -- 22:19]  Sass ran on files
+[21/11/2022 -- 22:19]  Sass ran on files
+[21/11/2022 -- 22:19]  Sass ran on files
+[21/11/2022 -- 22:19]  Sass ran on files
+[21/11/2022 -- 22:19]  Sass ran on files
+[21/11/2022 -- 22:19]  Scripts ran on main.js
+[21/11/2022 -- 22:19]  Scripts ran on main.js
+[21/11/2022 -- 22:19]  Scripts ran on main.js
+[21/11/2022 -- 22:20]  Scripts ran on main.js
+[21/11/2022 -- 22:20]  Scripts ran on main.js
+[21/11/2022 -- 22:20]  Scripts ran on main.js
+[21/11/2022 -- 22:20]  Scripts ran on main.js
+[21/11/2022 -- 22:20]  Scripts ran on main.js
+[21/11/2022 -- 22:20]  Scripts ran on main.js
+[21/11/2022 -- 22:20]  Scripts ran on main.js
+[21/11/2022 -- 22:20]  Scripts ran on main.js
+[21/11/2022 -- 22:20]  Scripts ran on main.js
+[21/11/2022 -- 22:21]  Sass ran on files
+[21/11/2022 -- 22:21]  Sass ran on files
+[21/11/2022 -- 22:21]  Sass ran on files
+[21/11/2022 -- 22:21]  Sass ran on files
+[21/11/2022 -- 22:21]  Sass ran on files
+[21/11/2022 -- 22:21]  Sass ran on files
+[21/11/2022 -- 22:21]  Sass ran on files
+[21/11/2022 -- 22:21]  Sass ran on files
+[21/11/2022 -- 22:21]  Sass ran on files
+[21/11/2022 -- 22:22]  Sass ran on files
+[21/11/2022 -- 22:22]  Sass ran on files
+[21/11/2022 -- 22:22]  Sass ran on files
+[21/11/2022 -- 22:22]  Sass ran on files
+[21/11/2022 -- 22:22]  Sass ran on files
+[21/11/2022 -- 22:22]  Scripts ran on main.js
+[21/11/2022 -- 22:22]  Scripts ran on main.js
+[21/11/2022 -- 22:23]  Sass ran on files
+[21/11/2022 -- 22:23]  Sass ran on files
+[21/11/2022 -- 22:23]  Sass ran on files
+[21/11/2022 -- 22:23]  Sass ran on files
+[21/11/2022 -- 22:23]  Sass ran on files
+[21/11/2022 -- 22:23]  Sass ran on files
+[21/11/2022 -- 22:23]  Sass ran on files
+[21/11/2022 -- 22:24]  Sass ran on files
+[21/11/2022 -- 22:24]  Sass ran on files
+[21/11/2022 -- 22:24]  Sass ran on files
+[21/11/2022 -- 22:24]  Sass ran on files
+[21/11/2022 -- 22:24]  Sass ran on files
+[21/11/2022 -- 22:24]  Sass ran on files
+[21/11/2022 -- 22:24]  Sass ran on files
+[21/11/2022 -- 22:25]  Sass ran on files
+[21/11/2022 -- 22:25]  Sass ran on files
+[21/11/2022 -- 22:25]  Sass ran on files
+[21/11/2022 -- 22:25]  Sass ran on files
+[21/11/2022 -- 22:25]  Sass ran on files
+[21/11/2022 -- 22:25]  Sass ran on files
+[21/11/2022 -- 22:26]  Sass ran on files
+[21/11/2022 -- 22:26]  Sass ran on files
+[21/11/2022 -- 22:26]  Sass ran on files
+[21/11/2022 -- 22:26]  Scripts ran on main.js
+[21/11/2022 -- 22:27]  Scripts ran on main.js
+[21/11/2022 -- 22:27]  Scripts ran on main.js
+[21/11/2022 -- 22:27]  Scripts ran on main.js
+[21/11/2022 -- 22:28]  Sass ran on files
+[21/11/2022 -- 22:28]  Sass ran on files
+[21/11/2022 -- 22:28]  Sass ran on files
+[21/11/2022 -- 22:28]  Sass ran on files
+[21/11/2022 -- 22:28]  Sass ran on files
+[21/11/2022 -- 22:29]  Scripts ran on main.js
+[21/11/2022 -- 22:29]  Scripts ran on main.js
+[21/11/2022 -- 22:29]  Scripts ran on main.js
+[21/11/2022 -- 22:29]  Scripts ran on main.js
+[21/11/2022 -- 22:29]  Sass ran on files
+[21/11/2022 -- 22:30]  Sass ran on files
+[21/11/2022 -- 22:30]  Sass ran on files
+[21/11/2022 -- 22:30]  Sass ran on files
+[21/11/2022 -- 22:30]  Sass ran on files
+[21/11/2022 -- 22:31]  Sass ran on files
+[21/11/2022 -- 22:32]  Sass ran on files
+[21/11/2022 -- 22:32]  Sass ran on files
+[21/11/2022 -- 22:32]  Sass ran on files
+[21/11/2022 -- 22:32]  Sass ran on files
+[21/11/2022 -- 22:33]  Sass ran on files
+[21/11/2022 -- 22:33]  Sass ran on files
+[21/11/2022 -- 22:33]  Sass ran on files
+[21/11/2022 -- 22:33]  Sass ran on files
+[21/11/2022 -- 22:34]  Sass ran on files
+[21/11/2022 -- 22:34]  Sass ran on files
+[21/11/2022 -- 22:34]  Sass ran on files
+[21/11/2022 -- 22:34]  Sass ran on files
+[21/11/2022 -- 22:35]  Sass ran on files
+[21/11/2022 -- 22:36]  Sass ran on files
+[21/11/2022 -- 22:36]  Sass ran on files
+[21/11/2022 -- 22:36]  Sass ran on files
+[21/11/2022 -- 22:36]  Sass ran on files
+[21/11/2022 -- 22:37]  Sass ran on files
+[21/11/2022 -- 22:37]  Sass ran on files
+[21/11/2022 -- 22:37]  Sass ran on files
+[21/11/2022 -- 22:37]  Sass ran on files
+[21/11/2022 -- 22:37]  Sass ran on files
+[21/11/2022 -- 22:37]  Sass ran on files
+[21/11/2022 -- 22:37]  Sass ran on files
+[21/11/2022 -- 22:37]  Sass ran on files
+[21/11/2022 -- 22:37]  Sass ran on files
+[21/11/2022 -- 22:37]  Sass ran on files
+[21/11/2022 -- 22:38]  Sass ran on files
+[21/11/2022 -- 22:38]  Sass ran on files
+[21/11/2022 -- 22:38]  Sass ran on files
+[21/11/2022 -- 22:38]  Sass ran on files
+[21/11/2022 -- 22:38]  Sass ran on files
+[21/11/2022 -- 22:38]  Sass ran on files
+[21/11/2022 -- 22:38]  Sass ran on files
+[21/11/2022 -- 22:38]  Sass ran on files
+[21/11/2022 -- 22:38]  Sass ran on files
+[21/11/2022 -- 22:38]  Sass ran on files
+[21/11/2022 -- 22:38]  Sass ran on files
+[21/11/2022 -- 22:38]  Sass ran on files
+[21/11/2022 -- 22:38]  Sass ran on files
+[21/11/2022 -- 22:38]  Sass ran on files
+[21/11/2022 -- 22:39]  Sass ran on files
+[21/11/2022 -- 22:39]  Sass ran on files
+[21/11/2022 -- 22:39]  Sass ran on files
+[21/11/2022 -- 22:39]  Scripts ran on main.js
+[21/11/2022 -- 22:39]  Scripts ran on main.js
+[21/11/2022 -- 22:39]  Scripts ran on main.js
+[21/11/2022 -- 22:39]  Scripts ran on main.js
+[21/11/2022 -- 22:39]  Scripts ran on main.js
+[21/11/2022 -- 22:39]  Scripts ran on main.js
+[21/11/2022 -- 22:39]  Scripts ran on main.js
+[21/11/2022 -- 22:39]  Scripts ran on main.js
+[21/11/2022 -- 22:39]  Scripts ran on main.js
+[21/11/2022 -- 22:39]  Scripts ran on main.js
+[21/11/2022 -- 22:39]  Scripts ran on main.js
+[21/11/2022 -- 22:40]  Scripts ran on main.js
+[21/11/2022 -- 22:40]  Scripts ran on main.js
+[21/11/2022 -- 22:41]  Scripts ran on main.js
+[21/11/2022 -- 22:41]  Scripts ran on main.js
+[21/11/2022 -- 22:41]  Scripts ran on main.js
+[21/11/2022 -- 22:41]  Scripts ran on main.js
+[21/11/2022 -- 22:41]  Scripts ran on main.js
+[21/11/2022 -- 22:41]  Scripts ran on main.js
+[21/11/2022 -- 22:41]  Scripts ran on main.js
+[21/11/2022 -- 22:42]  Scripts ran on main.js
+[21/11/2022 -- 22:42]  Scripts ran on main.js
+[21/11/2022 -- 22:42]  Scripts ran on main.js
+[21/11/2022 -- 22:43]  Scripts ran on main.js
+[21/11/2022 -- 22:43]  Sass ran on files
+[21/11/2022 -- 22:43]  Sass ran on files
+[21/11/2022 -- 22:43]  Sass ran on files
+[21/11/2022 -- 22:43]  Sass ran on files
+[21/11/2022 -- 22:44]  Sass ran on files
+[21/11/2022 -- 22:44]  Sass ran on files
+[21/11/2022 -- 22:44]  Scripts ran on main.js
+[21/11/2022 -- 22:44]  Scripts ran on main.js
+[21/11/2022 -- 22:44]  Scripts ran on main.js
+[21/11/2022 -- 22:44]  Scripts ran on main.js
+[21/11/2022 -- 22:44]  Scripts ran on main.js
+[21/11/2022 -- 22:44]  Scripts ran on main.js
+[21/11/2022 -- 22:44]  Scripts ran on main.js
+[21/11/2022 -- 22:44]  Scripts ran on main.js
+[21/11/2022 -- 22:44]  Scripts ran on main.js
+[21/11/2022 -- 22:45]  Scripts ran on main.js
+[21/11/2022 -- 22:45]  Scripts ran on main.js
+[21/11/2022 -- 22:45]  Scripts ran on main.js
+[21/11/2022 -- 22:45]  Scripts ran on main.js
+[21/11/2022 -- 22:45]  restarted!
+[21/11/2022 -- 22:45]  restarted!
+[21/11/2022 -- 22:45]  restarted!
+[21/11/2022 -- 22:45]  restarted!
+[21/11/2022 -- 22:45]  restarted!
+[21/11/2022 -- 22:45]  restarted!
+[21/11/2022 -- 22:45]  restarted!
+[21/11/2022 -- 22:45]  restarted!
+[21/11/2022 -- 22:45]  restarted!
+[21/11/2022 -- 22:45]  restarted!
+[21/11/2022 -- 22:45]  restarted!
+[21/11/2022 -- 22:45]  restarted!
+[21/11/2022 -- 22:45]  restarted!
+[21/11/2022 -- 22:45]  restarted!
+[21/11/2022 -- 22:45]  restarted!
+[21/11/2022 -- 22:45]  restarted!
+[21/11/2022 -- 22:45]  restarted!
+[21/11/2022 -- 22:47]  restarted!
+[21/11/2022 -- 22:47]  restarted!
+[21/11/2022 -- 22:47]  restarted!
+[21/11/2022 -- 22:47]  restarted!
+[21/11/2022 -- 22:47]  restarted!
+[21/11/2022 -- 22:47]  restarted!
+[21/11/2022 -- 22:47]  restarted!
+[21/11/2022 -- 22:47]  restarted!
+[21/11/2022 -- 22:48]  Scripts ran on main.js
+[21/11/2022 -- 22:48]  Scripts ran on main.js
+[21/11/2022 -- 22:48]  Scripts ran on main.js
+[21/11/2022 -- 22:48]  Scripts ran on main.js
+[21/11/2022 -- 22:49]  Scripts ran on main.js
+[21/11/2022 -- 22:49]  Scripts ran on main.js
+[21/11/2022 -- 22:49]  Scripts ran on main.js
+[21/11/2022 -- 22:49]  Scripts ran on main.js
+[21/11/2022 -- 22:50]  Scripts ran on main.js
+[21/11/2022 -- 22:50]  Scripts ran on main.js
+[21/11/2022 -- 22:50]  Scripts ran on main.js
+[21/11/2022 -- 22:50]  Scripts ran on main.js
+[21/11/2022 -- 22:50]  Scripts ran on main.js
+[21/11/2022 -- 22:51]  Scripts ran on main.js
+[21/11/2022 -- 22:51]  Scripts ran on main.js
+[21/11/2022 -- 22:51]  Scripts ran on main.js
+[21/11/2022 -- 22:51]  Scripts ran on main.js
+[21/11/2022 -- 22:51]  Scripts ran on main.js
+[21/11/2022 -- 22:52]  Scripts ran on main.js
+[21/11/2022 -- 22:52]  Scripts ran on main.js
+[21/11/2022 -- 22:52]  Scripts ran on main.js
+[21/11/2022 -- 22:52]  Scripts ran on main.js
+[21/11/2022 -- 22:52]  Scripts ran on main.js
+[21/11/2022 -- 22:52]  Scripts ran on main.js
+[21/11/2022 -- 22:52]  Scripts ran on main.js
+[21/11/2022 -- 22:52]  Scripts ran on main.js
+[21/11/2022 -- 22:52]  Scripts ran on main.js
+[21/11/2022 -- 22:53]  Scripts ran on main.js
+[21/11/2022 -- 22:54]  Scripts ran on main.js
+[21/11/2022 -- 22:54]  Scripts ran on main.js
+[21/11/2022 -- 22:54]  Scripts ran on main.js
+[21/11/2022 -- 22:54]  Scripts ran on main.js
+[21/11/2022 -- 22:54]  Scripts ran on main.js
+[21/11/2022 -- 22:55]  Scripts ran on main.js
+[21/11/2022 -- 22:55]  Scripts ran on main.js
+[21/11/2022 -- 22:55]  Scripts ran on main.js
+[21/11/2022 -- 22:55]  Scripts ran on main.js
+[21/11/2022 -- 22:56]  Scripts ran on main.js
+[21/11/2022 -- 22:56]  Scripts ran on main.js
+[21/11/2022 -- 22:56]  Scripts ran on main.js
+[21/11/2022 -- 22:56]  Scripts ran on main.js
+[21/11/2022 -- 22:57]  Scripts ran on main.js
+[21/11/2022 -- 22:57]  Scripts ran on main.js
+[21/11/2022 -- 22:58]  Scripts ran on main.js
+[21/11/2022 -- 22:58]  Scripts ran on main.js
+[21/11/2022 -- 22:58]  Scripts ran on main.js
+[21/11/2022 -- 22:58]  Scripts ran on main.js
+[21/11/2022 -- 22:59]  Scripts ran on main.js
+[21/11/2022 -- 22:59]  Scripts ran on main.js
+[21/11/2022 -- 22:59]  Scripts ran on main.js
+[21/11/2022 -- 22:59]  Scripts ran on main.js
+[21/11/2022 -- 22:59]  Scripts ran on main.js
+[21/11/2022 -- 22:59]  Scripts ran on main.js
+[21/11/2022 -- 22:59]  Scripts ran on main.js
+[21/11/2022 -- 22:59]  Scripts ran on main.js
+[21/11/2022 -- 22:59]  Scripts ran on main.js
+[21/11/2022 -- 23:0]  Scripts ran on main.js
+[21/11/2022 -- 23:0]  Scripts ran on main.js
+[21/11/2022 -- 23:0]  Scripts ran on main.js
+[21/11/2022 -- 23:0]  Scripts ran on main.js
+[21/11/2022 -- 23:25]  Info task started
+[21/11/2022 -- 23:26]  Mustache Templates ran on the HTML files
+[21/11/2022 -- 23:26]  Scripts ran on main.js
+[21/11/2022 -- 23:26]  Sass ran on files
